@@ -1,0 +1,7 @@
+#Thu Oct 17 15:27:35 CEST 2019
+base.0=F\:\\Documents\\cheshire\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\out\\classes.dex
+path.1=classes.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=F\:\\Documents\\cheshire\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\out\\classes.dex
