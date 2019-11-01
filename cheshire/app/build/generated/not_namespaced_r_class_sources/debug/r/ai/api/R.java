@@ -12,17 +12,17 @@ public final class R {
     public static final class attr {
         private attr() {}
 
-        public static final int centerColor = 0x7f020043;
-        public static final int circleCenterX = 0x7f020046;
-        public static final int circleCenterY = 0x7f020047;
-        public static final int haloColor = 0x7f020084;
-        public static final int mainColor = 0x7f0200cb;
-        public static final int maxRadius = 0x7f0200cd;
-        public static final int minRadius = 0x7f0200d1;
-        public static final int state_initializing_tts = 0x7f0200fd;
-        public static final int state_listening = 0x7f0200fe;
-        public static final int state_speaking = 0x7f0200ff;
-        public static final int state_waiting = 0x7f020100;
+        public static final int centerColor = 0x7f020045;
+        public static final int circleCenterX = 0x7f020049;
+        public static final int circleCenterY = 0x7f02004a;
+        public static final int haloColor = 0x7f02008a;
+        public static final int mainColor = 0x7f0200d8;
+        public static final int maxRadius = 0x7f0200da;
+        public static final int minRadius = 0x7f0200de;
+        public static final int state_initializing_tts = 0x7f02010a;
+        public static final int state_listening = 0x7f02010b;
+        public static final int state_speaking = 0x7f02010c;
+        public static final int state_waiting = 0x7f02010d;
     }
     public static final class color {
         private color() {}
@@ -52,10 +52,10 @@ public final class R {
     public static final class id {
         private id() {}
 
-        public static final int micButton = 0x7f07004d;
-        public static final int micContainer = 0x7f07004e;
-        public static final int partialResultsTextView = 0x7f07005c;
-        public static final int titleTextView = 0x7f07008c;
+        public static final int micButton = 0x7f070052;
+        public static final int micContainer = 0x7f070053;
+        public static final int partialResultsTextView = 0x7f070061;
+        public static final int titleTextView = 0x7f070095;
     }
     public static final class layout {
         private layout() {}
@@ -83,9 +83,9 @@ public final class R {
     public static final class styleable {
         private styleable() {}
 
-        public static final int[] MaskedColorView = { 0x7f0200cb };
+        public static final int[] MaskedColorView = { 0x7f0200d8 };
         public static final int MaskedColorView_mainColor = 0;
-        public static final int[] SoundLevelButton = { 0x7f020043, 0x7f020046, 0x7f020047, 0x7f020084, 0x7f0200cd, 0x7f0200d1, 0x7f0200fd, 0x7f0200fe, 0x7f0200ff, 0x7f020100 };
+        public static final int[] SoundLevelButton = { 0x7f020045, 0x7f020049, 0x7f02004a, 0x7f02008a, 0x7f0200da, 0x7f0200de, 0x7f02010a, 0x7f02010b, 0x7f02010c, 0x7f02010d };
         public static final int SoundLevelButton_centerColor = 0;
         public static final int SoundLevelButton_circleCenterX = 1;
         public static final int SoundLevelButton_circleCenterY = 2;
