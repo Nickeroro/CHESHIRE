@@ -1,15 +1,12 @@
 package com.chatbot.cheshire;
-
-/**
- * Created by flatfisher on 1/10/2018 AD.
- */
-
 import android.graphics.Bitmap;
 
 import com.github.bassaer.chatmessageview.model.IChatUser;
 
-import org.jetbrains.annotations.NotNull;
-import org.jetbrains.annotations.Nullable;
+//import org.jetbrains.annotations.NotNull;
+//import org.jetbrains.annotations.Nullable;
+import  androidx.annotation.NonNull;
+import  androidx.annotation.Nullable;
 
 public class User implements IChatUser {
     private Integer id;
@@ -22,7 +19,7 @@ public class User implements IChatUser {
         this.icon = icon;
     }
 
-    @NotNull
+    @NonNull
     @Override
     public String getId() {
         return this.id.toString();

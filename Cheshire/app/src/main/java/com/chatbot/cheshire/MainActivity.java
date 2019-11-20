@@ -5,8 +5,8 @@ import android.graphics.BitmapFactory;
 import android.graphics.Color;
 import android.os.AsyncTask;
 import android.os.Bundle;
-import android.support.v4.content.ContextCompat;
-import android.support.v7.app.AppCompatActivity;
+import androidx.appcompat.app.AppCompatActivity;
+import androidx.core.content.ContextCompat;
 import android.text.TextUtils;
 import android.util.Log;
 import android.view.View;
@@ -43,7 +43,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     private AIDataService aiDataService;
     private ChatView chatView;
     private User myAccount;
-    private User Cheshire;
+    private User Yeti_bot;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -62,8 +62,8 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         //new message
         final Message message = new Message.Builder()
                 .setUser(myAccount)
-                .setRightMessage(true)
-                .setMessageText(chatView.getInputText())
+                .setRight(true)
+                .setText(chatView.getInputText())
                 .hideIcon(true)
                 .build();
         //Set to chat view
@@ -169,9 +169,9 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
                 //Update view to bot says
                 final Message receivedMessage = new Message.Builder()
-                        .setUser(Cheshire)
-                        .setRightMessage(false)
-                        .setMessageText(speech)
+                        .setUser(Yeti_bot)
+                        .setRight(false)
+                        .setText(speech)
                         .build();
                 chatView.receive(receivedMessage);
             }
@@ -189,19 +189,20 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
     private void initChatView() {
         int myId = 0;
-        Bitmap icon = BitmapFactory.decodeResource(getResources(), R.drawable.ic_action_user);
+
+        Bitmap icon = BitmapFactory.decodeResource(getResources(), R.mipmap.ensta_logo_round);
         String myName = "Moi";
         myAccount = new User(myId, myName, icon);
 
         int botId = 1;
-        String botName = "Cheshire";
-        Cheshire = new User(botId, botName, icon);
+        String botName = "Yeti bot";
+        Yeti_bot = new User(botId, botName, icon);
 
         chatView = findViewById(R.id.chat_view);
-        chatView.setRightBubbleColor(ContextCompat.getColor(this, R.color.green500));
+        chatView.setRightBubbleColor(ContextCompat.getColor(this, R.color.lightBlue500));
         chatView.setLeftBubbleColor(Color.WHITE);
         chatView.setBackgroundColor(ContextCompat.getColor(this, R.color.blueGray500));
-        chatView.setSendButtonColor(ContextCompat.getColor(this, R.color.lightBlue500));
+        chatView.setSendButtonColor(ContextCompat.getColor(this, R.color.green500));
         chatView.setSendIcon(R.drawable.ic_action_send);
         chatView.setRightMessageTextColor(Color.WHITE);
         chatView.setLeftMessageTextColor(Color.BLACK);
