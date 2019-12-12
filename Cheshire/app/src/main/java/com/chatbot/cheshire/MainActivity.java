@@ -51,9 +51,8 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         setContentView(R.layout.activity_main);
 
         initChatView();
-
-        //Language, Dialogflow Client access token
-        final LanguageConfig config = new LanguageConfig("fr", "2bfd9d35c7eb49e086b44e60dc6c2369");
+        //Language + Dialogflow Client access token
+        final LanguageConfig config = new LanguageConfig("fr","2bfd9d35c7eb49e086b44e60dc6c2369");
         initService(config);
     }
 
@@ -190,7 +189,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     private void initChatView() {
         int myId = 0;
 
-        Bitmap icon = BitmapFactory.decodeResource(getResources(), R.mipmap.ensta_logo_round);
+        Bitmap icon = BitmapFactory.decodeResource(getResources(), R.mipmap.ic_yeto_bot_round);
         String myName = "Moi";
         myAccount = new User(myId, myName, icon);
 
