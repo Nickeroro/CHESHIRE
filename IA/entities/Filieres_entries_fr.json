@@ -1,0 +1,69 @@
+[
+  {
+    "value": "PFN",
+    "synonyms": [
+      "PFN",
+      "Plateformes Navales"
+    ]
+  },
+  {
+    "value": "SE",
+    "synonyms": [
+      "SE",
+      "Systèmes embarqués"
+    ]
+  },
+  {
+    "value": "FIPA",
+    "synonyms": [
+      "FIPA",
+      "fipa",
+      "formation ingénieure par alterance",
+      "alternance",
+      "ingénieur en alternance",
+      "apprenti ingénieur"
+    ]
+  },
+  {
+    "value": "AV",
+    "synonyms": [
+      "AV",
+      "architecture véhicule",
+      "auto",
+      "véhicule",
+      "automobile"
+    ]
+  },
+  {
+    "value": "FISE",
+    "synonyms": [
+      "FISE",
+      "Formation ingénieur sous statut étudiant",
+      "ingénieur généraliste"
+    ]
+  },
+  {
+    "value": "Masters",
+    "synonyms": [
+      "Masters",
+      "Master",
+      "master en hydrographie",
+      "master en génie maritime",
+      "master robotique mobile",
+      "master international ingénierie automobile",
+      "Master architecture et sécurité des systèmes électroniques et logiciels"
+    ]
+  },
+  {
+    "value": "Mastères spécialisés",
+    "synonyms": [
+      "Mastères spécialisés",
+      "mastère spécialisé ingénierie marine / architecture navale et offshore",
+      "mastère spé offshore",
+      "mastère spécialisé expert énergies marines renouvelables",
+      "mastères spécialisé pyrotechnie et propulsion",
+      "mastère spécialisé management de projets maritimes",
+      "mastères spécialisé ingénierie des systèmes de localisation et multi-senseur"
+    ]
+  }
+]

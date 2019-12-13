@@ -1,0 +1,94 @@
+[
+  {
+    "id": "f26b5f51-b6ad-48a8-bfe2-04d5f49e311a",
+    "data": [
+      {
+        "text": "Donne ",
+        "userDefined": false
+      },
+      {
+        "text": "moi",
+        "alias": "date-period",
+        "meta": "@sys.date-period",
+        "userDefined": false
+      },
+      {
+        "text": " les réponses du ",
+        "userDefined": false
+      },
+      {
+        "text": "bureau d\u0027étude",
+        "alias": "Devoirs",
+        "meta": "@Devoirs",
+        "userDefined": false
+      },
+      {
+        "text": "  de FPGA",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b6efdedb-bed1-43be-a158-731fb117acb6",
+    "data": [
+      {
+        "text": "Je cherche les ",
+        "userDefined": false
+      },
+      {
+        "text": "sujets",
+        "alias": "Devoirs",
+        "meta": "@Devoirs",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "de l\u0027année dernière",
+        "alias": "date-period",
+        "meta": "@sys.date-period",
+        "userDefined": false
+      },
+      {
+        "text": " de l\u0027UV ",
+        "userDefined": false
+      },
+      {
+        "text": "5",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      },
+      {
+        "text": "3",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "70ac1fbd-8142-43bc-becf-c1a32de7ee18",
+    "data": [
+      {
+        "text": "Devoirs",
+        "alias": "Devoirs",
+        "meta": "@Devoirs",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

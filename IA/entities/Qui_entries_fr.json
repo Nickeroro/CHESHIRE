@@ -1,0 +1,84 @@
+[
+  {
+    "value": "Noms",
+    "synonyms": [
+      "Noms",
+      "Nicolas",
+      "Tony Calvez",
+      "Marie Dénès",
+      "Julie Quéau",
+      "Madame le Clainche",
+      "Monsieur DUDU",
+      "Mademoiselle Gerogette De  Lamotte Picquet"
+    ]
+  },
+  {
+    "value": "Fonctions",
+    "synonyms": [
+      "Fonctions",
+      "professeurs",
+      "prof",
+      "Maître de conférence",
+      "Chercheurs",
+      "enseignants chercheurs",
+      "chercheurs en électronique"
+    ]
+  },
+  {
+    "value": "Directions",
+    "synonyms": [
+      "Directions",
+      "directions de formation",
+      "DIF",
+      "DIP",
+      "COM",
+      "Q",
+      "DQ",
+      "qualité",
+      "communication",
+      "direction de la communication"
+    ]
+  },
+  {
+    "value": "Départements",
+    "synonyms": [
+      "Départements",
+      "mecanique",
+      "pôle mécanique",
+      "pôle électronique",
+      "STIC",
+      "SHS",
+      "pôle ressource humaines"
+    ]
+  },
+  {
+    "value": "Non défini",
+    "synonyms": [
+      "Personne",
+      "quelqu\u0027un",
+      "quelqu\u0027un pouvant m\u0027aider",
+      "une personne aimable appartenant au pôle mécanique",
+      "une personne qui saura faire naître en moi une passion pour les sujets d\u0027électroniques"
+    ]
+  },
+  {
+    "value": "Candidats",
+    "synonyms": [
+      "Candidats",
+      "une taupe",
+      "personne venant de classes préparatoires",
+      "personne faisant un BTS",
+      "actuellement en DUT",
+      "actuellment en institut universitaire et technologie",
+      "actuellement en IUT",
+      "réserviste",
+      "militaire",
+      "BTS",
+      "IUT",
+      "Prepa",
+      "licence pro",
+      "prépa ATS",
+      "écoles préparatoires"
+    ]
+  }
+]

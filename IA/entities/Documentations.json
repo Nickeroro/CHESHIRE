@@ -1,0 +1,9 @@
+{
+  "id": "4dd7c69b-79ae-4478-aa30-928bc7803b08",
+  "name": "Documentations",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": true,
+  "allowFuzzyExtraction": false
+}

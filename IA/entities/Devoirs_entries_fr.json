@@ -1,0 +1,26 @@
+[
+  {
+    "value": "Sujets de devoir",
+    "synonyms": [
+      "devoirs",
+      "sujet de devoir"
+    ]
+  },
+  {
+    "value": "Bureau d\u0027étude",
+    "synonyms": [
+      "Bureau d\u0027étude",
+      "BE",
+      "TP",
+      "travail pratique"
+    ]
+  },
+  {
+    "value": "Oral",
+    "synonyms": [
+      "Oral",
+      "oraux",
+      "présentation orale"
+    ]
+  }
+]

@@ -1,0 +1,74 @@
+{
+  "id": "cff93024-fa3d-4033-a110-23d38840c1b0",
+  "name": "OuVisTu",
+  "auto": true,
+  "contexts": [
+    "Welcome"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "country",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "city",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "d0949280-22f1-4032-8b0a-f2c9f3c10008",
+          "required": true,
+          "dataType": "@sys.geo-city",
+          "name": "geo-city",
+          "value": "$geo-city",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "bca20cc2-954e-47ab-8c86-82a365372380",
+          "required": false,
+          "dataType": "@sys.time",
+          "name": "time",
+          "value": "$time",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "fr",
+          "condition": "",
+          "speech": [
+            "Wouah ! Tu vis à $geo-city ! Comment s\u0027est la vie là bas ?",
+            "Oh, tu viens de $geo-city ! Il y fait bon ?",
+            "Quel âge as tu ?",
+            "Oh pourquoi $time ? Tu ne t\u0027y plaît pas ou peut-être est-ce temporaire ?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

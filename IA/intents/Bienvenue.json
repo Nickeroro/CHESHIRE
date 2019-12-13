@@ -1,0 +1,49 @@
+{
+  "id": "c460550c-ea95-4c53-b8f7-efd9118e1ba4",
+  "name": "Bienvenue",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.welcome",
+      "affectedContexts": [
+        {
+          "name": "welcome",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "fr",
+          "condition": "",
+          "speech": [
+            "Salut !  Quel est ton souhait ?",
+            "Bonjour ! En quoi puis-je t\u0027aider aujourd\u0027hui ?",
+            "Salutations ! Quel est ton souhait ?",
+            "Bienvenue !  En quoi puis-je t\u0027aider aujourd\u0027hui ?",
+            "Hey ! Quel est ton souhait ?",
+            "Hello !  En quoi puis-je t\u0027aider aujourd\u0027hui ?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "WELCOME"
+    }
+  ],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

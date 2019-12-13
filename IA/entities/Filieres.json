@@ -1,0 +1,9 @@
+{
+  "id": "8bc7c841-7d56-43e9-9a26-943d537adbcc",
+  "name": "Filieres",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": true,
+  "allowFuzzyExtraction": false
+}

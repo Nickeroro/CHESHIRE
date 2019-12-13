@@ -1,0 +1,56 @@
+{
+  "id": "9032b983-2e40-4143-aaef-bb2e49ec932c",
+  "name": "SujetDevoirs",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "59ee47cd-162d-4685-a797-057799139587",
+          "required": false,
+          "dataType": "@Devoirs",
+          "name": "Devoirs",
+          "value": "$Devoirs",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "83a1f471-4332-4f7b-b5b4-8d86f673d0bc",
+          "required": false,
+          "dataType": "@sys.date-period",
+          "name": "date-period",
+          "value": "$date-period",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "fr",
+          "condition": "",
+          "speech": "Peut-être trouveras tu  ton bonheur  en te connectant à ton compte office puis en allant dans sharepoint puis en recherchant Yéticours : https://enstabretagne.sharepoint.com/yeticours/SitePages/Accueil.aspx"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

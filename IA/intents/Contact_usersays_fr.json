@@ -1,0 +1,421 @@
+[
+  {
+    "id": "7703d086-8991-489f-83ab-b967fad1c167",
+    "data": [
+      {
+        "text": "Contactez ",
+        "userDefined": false
+      },
+      {
+        "text": "truc",
+        "alias": "Qui",
+        "meta": "@Qui",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "687b0ee1-261f-49c9-94f8-4546950c6efc",
+    "data": [
+      {
+        "text": "contacter",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ffd6a345-68f3-428c-89d3-8d6bd48367fd",
+    "data": [
+      {
+        "text": "cc je souhaite parler à toto",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d2e5a2f6-a053-4e74-aef9-f5821822fd51",
+    "data": [
+      {
+        "text": "je souhaite contacter ",
+        "userDefined": false
+      },
+      {
+        "text": "Tony calvez",
+        "alias": "qui",
+        "userDefined": false
+      },
+      {
+        "text": " le plus beau",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "fb95b4bc-bb7a-4630-9aed-a6ff4ae1d519",
+    "data": [
+      {
+        "text": "Je souhaite contacter ",
+        "userDefined": false
+      },
+      {
+        "text": "Nico",
+        "alias": "given-name",
+        "meta": "@sys.given-name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "95cb50dd-5edf-41da-b975-99e0b0f596c3",
+    "data": [
+      {
+        "text": "je souhaite rentrer en contact avec ",
+        "userDefined": false
+      },
+      {
+        "text": "quelqu\u0027un",
+        "alias": "qui",
+        "userDefined": false
+      },
+      {
+        "text": " pouvant m\u0027expliquer le cours de propagation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "a7c27de1-059f-4011-8e11-046f18b80073",
+    "data": [
+      {
+        "text": "je souhaite contacter ",
+        "userDefined": false
+      },
+      {
+        "text": "monsieur Leydlé",
+        "alias": "qui",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "21f4e407-afc9-493d-95b6-5bd449c16090",
+    "data": [
+      {
+        "text": "Je souhaite contacter ",
+        "userDefined": false
+      },
+      {
+        "text": "Monsieur",
+        "alias": "qui",
+        "userDefined": false
+      },
+      {
+        "text": " Jackolanterno",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "fbd56868-6cf6-4631-98b6-3438db4aa5b6",
+    "data": [
+      {
+        "text": "Je souhaite contacter ",
+        "userDefined": false
+      },
+      {
+        "text": "monsieur",
+        "alias": "qui",
+        "userDefined": false
+      },
+      {
+        "text": " Jakos",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "4682618d-8e71-4a0e-9975-577c73ef56e5",
+    "data": [
+      {
+        "text": "je souhaite contacter ",
+        "userDefined": false
+      },
+      {
+        "text": "Monsieur",
+        "alias": "qui",
+        "userDefined": false
+      },
+      {
+        "text": " loldbo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "2e22e2fb-8557-459c-96cb-b73c8368ac4f",
+    "data": [
+      {
+        "text": "contactez moi ",
+        "userDefined": false
+      },
+      {
+        "text": "le directeur",
+        "alias": "qui",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "7646c589-8341-4d37-81c8-6f8a08e623e7",
+    "data": [
+      {
+        "text": "contact moi ",
+        "userDefined": false
+      },
+      {
+        "text": "mr reynet",
+        "alias": "qui",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "64190c5c-1121-4755-a4a5-1bb4f50c8fb2",
+    "data": [
+      {
+        "text": "contact ",
+        "userDefined": false
+      },
+      {
+        "text": "moi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Mme Dudu",
+        "alias": "Qui",
+        "meta": "@Qui",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "79fe7d56-4de8-4065-8f1d-cdce1cd8543b",
+    "data": [
+      {
+        "text": "Contactez ",
+        "userDefined": false
+      },
+      {
+        "text": "moi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "le directeur",
+        "alias": "Qui",
+        "meta": "@Qui",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "09b99f87-2f13-4b8a-8413-f30a224351c4",
+    "data": [
+      {
+        "text": "Je souhaite contacter ",
+        "userDefined": false
+      },
+      {
+        "text": "monsieur Leydlé",
+        "alias": "Qui",
+        "meta": "@Qui",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7c6dbce4-5514-4255-ab7b-313b204d1a9e",
+    "data": [
+      {
+        "text": "Je veux parler à ",
+        "userDefined": false
+      },
+      {
+        "text": "la com\u0027",
+        "alias": "Qui",
+        "meta": "@Qui",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "489ea22b-ee59-414b-93f1-001c1a239409",
+    "data": [
+      {
+        "text": "Je souhaite envoyer ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " mail au ",
+        "userDefined": false
+      },
+      {
+        "text": "Directeur",
+        "alias": "Qui",
+        "meta": "@Qui",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "deaee1e2-3f96-4acc-bf1a-e936d880262b",
+    "data": [
+      {
+        "text": "Je souhaite contacter ",
+        "userDefined": false
+      },
+      {
+        "text": "quelqu\u0027un",
+        "alias": "Qui",
+        "meta": "@Qui",
+        "userDefined": false
+      },
+      {
+        "text": " qui peut me faire visiter l\u0027école",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e49522bd-4086-4ae4-8284-5a9c5c0ba3ca",
+    "data": [
+      {
+        "text": "Je suis chercheur et j\u0027aimerai joindre ",
+        "userDefined": false
+      },
+      {
+        "text": "Olivier Reynet",
+        "alias": "given-name",
+        "meta": "@sys.given-name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d84ab149-0d96-46e7-8fea-1dabf4ea2d59",
+    "data": [
+      {
+        "text": "J\u0027aimerais parler à ",
+        "userDefined": false
+      },
+      {
+        "text": "une personne de la communication",
+        "alias": "Qui",
+        "meta": "@Qui",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "28b0e58e-4698-4985-86e7-c81443d9420a",
+    "data": [
+      {
+        "text": "Je cherche à prendre contact avec ",
+        "userDefined": false
+      },
+      {
+        "text": "Monsieur",
+        "alias": "Qui",
+        "meta": "@Qui",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Batignol",
+        "alias": "given-name",
+        "meta": "@sys.given-name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,9 @@
+{
+  "id": "3ed4df9c-a114-4c0d-8fcd-f968a2392e44",
+  "name": "VieEtudiante",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": true,
+  "allowFuzzyExtraction": false
+}

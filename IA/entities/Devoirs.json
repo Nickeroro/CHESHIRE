@@ -1,0 +1,9 @@
+{
+  "id": "69f51c81-9795-4039-8b6c-52e8051120f0",
+  "name": "Devoirs",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": true,
+  "allowFuzzyExtraction": false
+}

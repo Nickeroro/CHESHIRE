@@ -1,0 +1,386 @@
+[
+  {
+    "id": "3e8890c4-db57-4847-bef7-5d076dee502b",
+    "data": [
+      {
+        "text": "je viens de ",
+        "userDefined": false
+      },
+      {
+        "text": "Morlaix",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "25f9e33c-5d78-4162-ad23-4cbe643af66a",
+    "data": [
+      {
+        "text": "je viens de ",
+        "userDefined": false
+      },
+      {
+        "text": "Brest",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "05095131-10ca-448c-9ecc-cb3eecb8c7df",
+    "data": [
+      {
+        "text": "je vien de ",
+        "userDefined": false
+      },
+      {
+        "text": "Brest",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b75db3e4-6e3d-49ea-979f-414be1d4edd6",
+    "data": [
+      {
+        "text": "je loge à ",
+        "userDefined": false
+      },
+      {
+        "text": "Lille",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "d3e8be93-a89d-494c-a8cc-37ee97138b5f",
+    "data": [
+      {
+        "text": "Je loge à ",
+        "userDefined": false
+      },
+      {
+        "text": "Marseille",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "48c20021-7d88-4b8d-8121-5fc97f7baa57",
+    "data": [
+      {
+        "text": "Je vis à ",
+        "userDefined": false
+      },
+      {
+        "text": "Monaco",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f0648ccf-d53f-4c79-8ab7-99734ad2c0c4",
+    "data": [
+      {
+        "text": "Je loge à ",
+        "userDefined": false
+      },
+      {
+        "text": "Monaco",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "88c98d0f-579b-4a79-aa39-12701fcb1991",
+    "data": [
+      {
+        "text": "Je viens de ",
+        "userDefined": false
+      },
+      {
+        "text": "Brest",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "c5413dc8-89dd-412e-a187-352db9aca998",
+    "data": [
+      {
+        "text": "Je vis à ",
+        "userDefined": false
+      },
+      {
+        "text": "Rennes",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "facf5070-72b2-41f3-90ec-5b597d9eab9c",
+    "data": [
+      {
+        "text": "Je vis à ",
+        "userDefined": false
+      },
+      {
+        "text": "Quimper",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0fc00807-80da-46d7-b9d4-8d6cefe7efc4",
+    "data": [
+      {
+        "text": "Actuellement",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": ", je loge au ",
+        "userDefined": false
+      },
+      {
+        "text": "Faou",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5e64576e-92cf-429b-b1b8-802f07438f35",
+    "data": [
+      {
+        "text": "J\u0027habite à ",
+        "userDefined": false
+      },
+      {
+        "text": "Marseille",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      },
+      {
+        "text": " !",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bdf27274-d95b-43be-8020-3b656c35d4b3",
+    "data": [
+      {
+        "text": "Je viens de ",
+        "userDefined": false
+      },
+      {
+        "text": "Los angeles",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "1e7677f8-2ae8-44a7-a180-5142a8caa380",
+    "data": [
+      {
+        "text": "Je vis à ",
+        "userDefined": false
+      },
+      {
+        "text": "Brest",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "3705a263-0e8e-4f3a-ab37-50e70b1bb7c2",
+    "data": [
+      {
+        "text": "je vis a ",
+        "userDefined": false
+      },
+      {
+        "text": "brest",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7b853616-6c05-4268-8c7a-82c3076142ce",
+    "data": [
+      {
+        "text": "je vis à ",
+        "userDefined": false
+      },
+      {
+        "text": "Lyon",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "07da6555-2446-410c-93c3-ceebf5dae54c",
+    "data": [
+      {
+        "text": "je vis à ",
+        "userDefined": false
+      },
+      {
+        "text": "San franscico",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a285ed0d-db70-4b1b-9aa5-a8daace62ae2",
+    "data": [
+      {
+        "text": "Je vis à ",
+        "userDefined": false
+      },
+      {
+        "text": "Châteaulin",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "52cedb58-d429-40c1-8af9-2debcc6330a3",
+    "data": [
+      {
+        "text": "Je vis à ",
+        "userDefined": false
+      },
+      {
+        "text": "Brest",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "b07475e8-b8eb-4a6e-bd47-4f20485ea908",
+    "data": [
+      {
+        "text": "Je suis ",
+        "userDefined": false
+      },
+      {
+        "text": "actuellement",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " à ",
+        "userDefined": false
+      },
+      {
+        "text": "Paris",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]
