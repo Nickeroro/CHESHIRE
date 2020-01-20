@@ -50,10 +50,10 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        //String apiKey = BuildConfig.ApiKey;
+        String apiKey = BuildConfig.ApiKey;
         initChatView();
         //Language + Dialogflow Client access token
-        final LanguageConfig config = new LanguageConfig("fr","2bfd9d35c7eb49e086b44e60dc6c2369");
+        final LanguageConfig config = new LanguageConfig("fr",apiKey);
         initService(config);
     }
 
@@ -190,14 +190,15 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     private void initChatView() {
         int myId = 0;
 
-        Bitmap icon = BitmapFactory.decodeResource(getResources(),
-                R.mipmap.ic_yeto_bot_round);
+        Bitmap bot_icon = BitmapFactory.decodeResource(getResources(),
+                R.mipmap.ic_yeti_bot_png_round);
+
         String myName = "Moi";
-        myAccount = new User(myId, myName, icon);
+        myAccount = new User(myId, myName, bot_icon);
 
         int botId = 1;
         String botName = "Yeti bot";
-        Yeti_bot = new User(botId, botName, icon);
+        Yeti_bot = new User(botId, botName, bot_icon);
 
         chatView = findViewById(R.id.chat_view);
         chatView.setRightBubbleColor(ContextCompat.getColor(this, R.color.lightBlue500));
