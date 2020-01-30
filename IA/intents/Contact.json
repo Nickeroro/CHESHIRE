@@ -9,28 +9,22 @@
       "affectedContexts": [],
       "parameters": [
         {
-          "id": "d92e2e76-4f05-4469-b7fe-9fe27bddf25b",
-          "required": false,
-          "dataType": "@sys.given-name",
-          "name": "given-name",
-          "value": "$given-name",
-          "promptMessages": [],
-          "noMatchPromptMessages": [],
-          "noInputPromptMessages": [],
-          "outputDialogContexts": [],
-          "isList": false
-        },
-        {
           "id": "62ad29e4-feb6-4343-bb1a-185a1031ebff",
-          "required": false,
+          "required": true,
           "dataType": "@Qui",
           "name": "Qui",
           "value": "$Qui",
+          "prompts": [
+            {
+              "lang": "fr",
+              "value": "Souhaitez-vous contacter quelqu\u0027un en particulier ?"
+            }
+          ],
           "promptMessages": [],
           "noMatchPromptMessages": [],
           "noInputPromptMessages": [],
           "outputDialogContexts": [],
-          "isList": false
+          "isList": true
         }
       ],
       "messages": [
@@ -38,7 +32,7 @@
           "type": 0,
           "lang": "fr",
           "condition": "",
-          "speech": "Merci de remplir le formulaire à l\u0027adresse suivante :  https://nous-ecrire.ensta-bretagne.fr ."
+          "speech": "Vous souhaitez prendre contact avec $Qui.original.  Merci de remplir le formulaire à l\u0027adresse suivante :  \n\nhttps://nous-ecrire.ensta-bretagne.fr"
         }
       ],
       "defaultResponsePlatforms": {},

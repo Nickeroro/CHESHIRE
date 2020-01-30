@@ -1,0 +1,52 @@
+[
+  {
+    "value": "le cycle sous statut miltaire",
+    "synonyms": [
+      "Miltaire",
+      "IETA",
+      "ingénieur sous statut militaire",
+      "mili",
+      "militaire",
+      "cycle militaire",
+      "formation militaire",
+      "formation ingénieur statu militaire"
+    ]
+  },
+  {
+    "value": "l\u0027apprentissage",
+    "synonyms": [
+      "Apprenti",
+      "apprentis",
+      "apprentie",
+      "fipa",
+      "FIPA",
+      "Formation ingénieur par alternance",
+      "apprentissage",
+      "alternance",
+      "formation par apprentissage"
+    ]
+  },
+  {
+    "value": "le cycle ingénieur",
+    "synonyms": [
+      "fise",
+      "ci",
+      "ingénieur généraliste"
+    ]
+  },
+  {
+    "value": "les masters",
+    "synonyms": [
+      "master hydrographie",
+      "master en génie maritime",
+      "master robotique maritime"
+    ]
+  },
+  {
+    "value": "les mastères spécialisés",
+    "synonyms": [
+      "les mastères spécialisés",
+      "mastère en énergie renouvelable"
+    ]
+  }
+]

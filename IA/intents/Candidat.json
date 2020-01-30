@@ -1,0 +1,104 @@
+{
+  "id": "d6e46e22-e0de-4b16-ba31-af6411015a33",
+  "name": "Candidat",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "Candidat-followup",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "e98a86a4-0d6a-4dcb-973e-a34e10e2b00d",
+          "required": false,
+          "dataType": "@Filieres",
+          "name": "Filieres",
+          "value": "$Filieres",
+          "prompts": [
+            {
+              "lang": "fr",
+              "value": "Avez-vous une idée de la filière sur laquelle vous voulez des informations ? (Filières : SPID, PFN,... )"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "7c9973ba-363e-4a54-b1d2-ef764274e793",
+          "required": true,
+          "dataType": "@Niveau_etude",
+          "name": "Niveau_etude",
+          "value": "$Niveau_etude",
+          "prompts": [
+            {
+              "lang": "fr",
+              "value": "Vous êtes actuellement en :\n\n- CPGE (Maths spé - Bac +2)\n- IUT, BTS (Bac +2), Licence pro, prépa ATS (Bac +3)\n- Licence (L3 - Bac +3)\n- Master 1 (M1 - Bac +4)\n- Master 2 (M2 - Bac +5)"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": true
+        },
+        {
+          "id": "0bfda23b-56ab-47b5-a13f-147d042a8d13",
+          "required": false,
+          "dataType": "@Integrer_ENSTA",
+          "name": "Integrer_ENSTA",
+          "value": "$Integrer_ENSTA",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "9dd39476-81ff-4c8b-ab89-25363d4b18a3",
+          "required": true,
+          "dataType": "@Statut_ENSTA",
+          "name": "Statut_ENSTA",
+          "value": "$Statut_ENSTA",
+          "prompts": [
+            {
+              "lang": "fr",
+              "value": "Souhaitez-vous des renseignements sur : \n\n- le cycle ingénieur par alternance\n- le cycle ingénieur sous statut étudiant\n- le cycle ingénieur sous statut militaire \n- les masters \n- les mastères spécialisés"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": true
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "fr",
+          "condition": "",
+          "speech": "Vous êtes en $Niveau_etude et vous êtes intéressé(e) par $Statut_ENSTA.\n\nEst-ce bien cela ?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

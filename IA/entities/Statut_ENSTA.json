@@ -1,0 +1,9 @@
+{
+  "id": "fc701c6e-e826-4540-9cab-50b8c82561a7",
+  "name": "Statut_ENSTA",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

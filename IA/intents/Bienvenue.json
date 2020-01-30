@@ -21,12 +21,12 @@
           "lang": "fr",
           "condition": "",
           "speech": [
-            "Salut !  Quel est ton souhait ?",
-            "Bonjour ! En quoi puis-je t\u0027aider aujourd\u0027hui ?",
-            "Salutations ! Quel est ton souhait ?",
-            "Bienvenue !  En quoi puis-je t\u0027aider aujourd\u0027hui ?",
-            "Hey ! Quel est ton souhait ?",
-            "Hello !  En quoi puis-je t\u0027aider aujourd\u0027hui ?"
+            "Salut !  Quel est ton souhait ?\n\n- Prendre contact avec...\n- Intégrer l\u0027ENSTA \n- Obtenir des sujets de devoir des années précédentes",
+            "Bonjour ! En quoi puis-je t\u0027aider aujourd\u0027hui ?\n\n- Prendre contact avec...\n- Intégrer l\u0027ENSTA \n- Obtenir des sujets de devoir des années précédentes",
+            "Salutations ! Quel est ton souhait ?\n\n- Prendre contact avec...\n- Intégrer l\u0027ENSTA \n- Obtenir des sujets de devoir des années précédentes",
+            "Bienvenue !  En quoi puis-je t\u0027aider aujourd\u0027hui ?\n\n- Prendre contact avec...\n- Intégrer l\u0027ENSTA \n- Obtenir des sujets de devoir des années précédentes",
+            "Hey ! Quel est ton souhait ?\n\n- Prendre contact avec...\n- Intégrer l\u0027ENSTA \n- Obtenir des sujets de devoir des années précédentes",
+            "Hello !  En quoi puis-je t\u0027aider aujourd\u0027hui ?\n\n- Prendre contact avec...\n- Intégrer l\u0027ENSTA \n- Obtenir des sujets de devoir des années précédentes"
           ]
         }
       ],

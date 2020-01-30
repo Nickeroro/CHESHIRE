@@ -8,7 +8,7 @@
     "smalltalk-domain-on"
   ],
   "disableInteractionLogs": false,
-  "disableStackdriverLogs": true,
+  "disableStackdriverLogs": false,
   "googleAssistant": {
     "googleAssistantCompatible": true,
     "project": "cheshirebot-tslnqn",
@@ -36,19 +36,19 @@
   },
   "defaultTimezone": "Europe/Madrid",
   "webhook": {
-    "url": "",
+    "url": "https://us-central1-cheshirebot-tslnqn.cloudfunctions.net/dialogflowFirebaseFulfillment",
     "username": "",
     "headers": {},
-    "available": false,
+    "available": true,
     "useForDomains": false,
-    "cloudFunctionsEnabled": false,
-    "cloudFunctionsInitialized": false
+    "cloudFunctionsEnabled": true,
+    "cloudFunctionsInitialized": true
   },
   "isPrivate": true,
   "customClassifierMode": "use.after",
   "mlMinConfidence": 0.3,
   "supportedLanguages": [],
-  "onePlatformApiVersion": "v2",
+  "onePlatformApiVersion": "v2beta1",
   "analyzeQueryTextSentiment": false,
   "enabledKnowledgeBaseNames": [],
   "knowledgeServiceConfidenceAdjustment": -0.4,
