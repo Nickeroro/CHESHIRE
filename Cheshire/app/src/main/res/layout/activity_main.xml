@@ -5,10 +5,22 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent">
 
+
     <com.github.bassaer.chatmessageview.view.ChatView
         android:id="@+id/chat_view"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        app:text_selectable="true"
-        />
+        app:text_selectable="true">
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:background="?attr/colorPrimary"
+        app:titleTextColor="@android:color/black"
+        app:popupTheme="@style/AppTheme.PopupOverlay">
+    </androidx.appcompat.widget.Toolbar>
+
+    </com.github.bassaer.chatmessageview.view.ChatView>
+
 </LinearLayout>

@@ -1,5 +1,6 @@
 package com.chatbot.cheshire;
 
+import android.content.ClipData;
 import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
 import android.graphics.Color;
@@ -9,6 +10,8 @@ import androidx.appcompat.app.AppCompatActivity;
 import androidx.core.content.ContextCompat;
 import android.text.TextUtils;
 import android.util.Log;
+import android.view.Menu;
+import android.view.MenuItem;
 import android.view.View;
 
 import com.github.bassaer.chatmessageview.model.Message;
@@ -44,6 +47,30 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     private ChatView chatView;
     private User myAccount;
     private User Yeti_bot;
+
+    @Override
+    public boolean onCreateOptionsMenu(Menu menu) {
+        // Inflate the menu; this adds items to the action bar if it is present.
+        getMenuInflater().inflate(R.menu.menu_language, menu);
+        return true;
+    }
+
+    @Override
+    public boolean onOptionsItemSelected(MenuItem item) {
+        String apiKey = BuildConfig.ApiKey;
+        switch (item.getItemId()) {
+            case R.id.action_english:
+                final LanguageConfig configEn = new LanguageConfig("en",apiKey);
+                initService(configEn);
+                return true;
+            case R.id.action_french:
+                final LanguageConfig configFr = new LanguageConfig("fr",apiKey);
+                initService(configFr);
+                return true;
+            default:
+                return super.onOptionsItemSelected(item);
+        }
+    }
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -215,6 +242,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         chatView.setMessageMarginTop(5);
         chatView.setMessageMarginBottom(5);
         chatView.setOnClickSendButtonListener(this);
+
     }
 
     private void initService(final LanguageConfig languageConfig) {
