@@ -1,450 +1,12 @@
 [
   {
     "id": "b4d92e65-c344-44e0-a5a9-dae6a510fe8d",
-<<<<<<< HEAD
-=======
     "data": [
       {
         "text": "Contactez ",
         "userDefined": false
       },
       {
-        "text": "Monsieur Madame et Madame Monsieur",
-        "alias": "Qui",
-        "meta": "@Qui",
-        "userDefined": true
-      },
-      {
-        "text": ".",
-        "userDefined": false
-      }
-    ],
-    "isTemplate": false,
-    "count": 0,
-    "updated": 0
-  },
-  {
-    "id": "cace0283-ae55-49a5-9bd2-95b0a0058212",
-    "data": [
-      {
-        "text": "contactez ",
-        "userDefined": false
-      },
-      {
-        "text": "Monsieur Jonquière et Madame Lamy",
-        "alias": "Qui",
-        "meta": "@Qui",
-        "userDefined": true
-      },
-      {
-        "text": ".",
-        "userDefined": false
-      }
-    ],
-    "isTemplate": false,
-    "count": 0,
-    "updated": 0
-  },
-  {
-    "id": "202e6919-057c-4a3a-9575-1d91d9d4646e",
-    "data": [
-      {
-        "text": "contactez ",
-        "userDefined": false
-      },
-      {
-        "text": "Eva, Lucie et Camille",
-        "alias": "Qui",
-        "meta": "@Qui",
-        "userDefined": true
-      },
-      {
-        "text": ".",
-        "userDefined": false
-      }
-    ],
-    "isTemplate": false,
-    "count": 0,
-    "updated": 0
-  },
-  {
-    "id": "4193cf79-a116-4f8f-b868-6115c8e4bb88",
-    "data": [
-      {
-        "text": "je souhaite prendre contact avec ",
-        "userDefined": false
-      },
-      {
-        "text": "Camille, Judi et Marc-Antoine",
-        "alias": "Qui",
-        "meta": "@Qui",
-        "userDefined": true
-      },
-      {
-        "text": ".",
-        "userDefined": false
-      }
-    ],
-    "isTemplate": false,
-    "count": 0,
-    "updated": 0
-  },
-  {
-    "id": "e7358ca8-c0f3-47ae-9425-0c1806eada78",
-    "data": [
-      {
-        "text": "contacter",
-        "userDefined": false
-      }
-    ],
-    "isTemplate": false,
-    "count": 1,
-    "updated": 0
-  },
-  {
-    "id": "825bf009-1a39-4033-9ba2-42c9b44d88d5",
-    "data": [
-      {
-        "text": "contactez",
-        "userDefined": false
-      }
-    ],
-    "isTemplate": false,
-    "count": 1,
-    "updated": 0
-  },
-  {
-    "id": "125a0007-7c67-42d0-9bf0-21da90cf0825",
-    "data": [
-      {
-        "text": "Mathieu, Gérard et Lucie",
-        "alias": "Qui",
-        "meta": "@Qui",
-        "userDefined": true
-      }
-    ],
-    "isTemplate": false,
-    "count": 0,
-    "updated": 0
-  },
-  {
-    "id": "21bb01aa-8eba-46a3-a1bf-0a458718d888",
-    "data": [
-      {
-        "text": "je souhaite contacter Tony calvez le plus beau",
-        "userDefined": false
-      }
-    ],
-    "isTemplate": false,
-    "count": 0,
-    "updated": 0
-  },
-  {
-    "id": "85d64dcb-addd-46ba-9a5f-a35c57bb21f7",
-    "data": [
-      {
-        "text": "Je souhaite contacter Nico",
-        "userDefined": false
-      }
-    ],
-    "isTemplate": false,
-    "count": 0,
-    "updated": 0
-  },
-  {
-    "id": "f00a5d4f-658e-4222-9895-23cac73522a3",
-    "data": [
-      {
-        "text": "je souhaite rentrer en contact avec ",
-        "userDefined": false
-      },
-      {
-        "text": "quelqu\u0027un pouvant m\u0027expliquer le cours de propagation",
-        "alias": "Qui",
-        "meta": "@Qui",
-        "userDefined": true
-      }
-    ],
-    "isTemplate": false,
-    "count": 1,
-    "updated": 0
-  },
-  {
-    "id": "5fd3e5fa-8545-4390-8f54-c957e230ffbb",
-    "data": [
-      {
-        "text": "je souhaite contacter ",
-        "userDefined": false
-      },
-      {
-        "text": "monsieur Leydlé",
-        "alias": "Qui",
-        "meta": "@Qui",
-        "userDefined": true
-      }
-    ],
-    "isTemplate": false,
-    "count": 1,
-    "updated": 0
-  },
-  {
-    "id": "7cef7c67-307c-442b-8108-4704256d6b85",
-    "data": [
-      {
-        "text": "Je souhaite contacter ",
-        "userDefined": false
-      },
-      {
-        "text": "Monsieur Jackolanterno",
-        "alias": "Qui",
-        "meta": "@Qui",
-        "userDefined": true
-      }
-    ],
-    "isTemplate": false,
-    "count": 1,
-    "updated": 0
-  },
-  {
-    "id": "e915688e-04bb-42b6-84ce-778fbe1b21a4",
-    "data": [
-      {
-        "text": "Je souhaite contacter ",
-        "userDefined": false
-      },
-      {
-        "text": "monsieur Jakos",
-        "alias": "Qui",
-        "meta": "@Qui",
-        "userDefined": true
-      }
-    ],
-    "isTemplate": false,
-    "count": 1,
-    "updated": 0
-  },
-  {
-    "id": "d5ef4be5-ab22-45f0-b1e8-201891eb21c3",
-    "data": [
-      {
-        "text": "je souhaite contacter ",
-        "userDefined": false
-      },
-      {
-        "text": "Monsieur loldbo",
-        "alias": "Qui",
-        "meta": "@Qui",
-        "userDefined": true
-      }
-    ],
-    "isTemplate": false,
-    "count": 1,
-    "updated": 0
-  },
-  {
-    "id": "24ca0826-ad17-4cae-9986-4e5a77994a75",
-    "data": [
-      {
-        "text": "contactez moi ",
-        "userDefined": false
-      },
-      {
-        "text": "le directeur",
-        "alias": "Qui",
-        "meta": "@Qui",
-        "userDefined": true
-      }
-    ],
-    "isTemplate": false,
-    "count": 1,
-    "updated": 0
-  },
-  {
-    "id": "118a2c6b-82af-4989-a45d-69eca28e56f1",
-    "data": [
-      {
-        "text": "contact moi ",
-        "userDefined": false
-      },
-      {
-        "text": "mr reynet",
-        "alias": "Qui",
-        "meta": "@Qui",
-        "userDefined": true
-      }
-    ],
-    "isTemplate": false,
-    "count": 1,
-    "updated": 0
-  },
-  {
-    "id": "135664d3-0c28-4286-84f1-060abadc6e8b",
-    "data": [
-      {
-        "text": "cc je souhaite parler à ",
-        "userDefined": false
-      },
-      {
-        "text": "Pikaa",
-        "alias": "Qui",
-        "meta": "@Qui",
-        "userDefined": true
-      }
-    ],
-    "isTemplate": false,
-    "count": 0,
-    "updated": 0
-  },
-  {
-    "id": "447b2999-849e-4e25-8f78-bc05edd0d057",
-    "data": [
-      {
-        "text": "bonjour contacter ",
-        "userDefined": false
-      },
-      {
-        "text": "Nicolas",
-        "alias": "Qui",
-        "meta": "@Qui",
-        "userDefined": true
-      }
-    ],
-    "isTemplate": false,
-    "count": 0,
-    "updated": 0
-  },
-  {
-    "id": "c767b853-e6ed-4497-afd4-5cec9e970d7b",
-    "data": [
-      {
-        "text": "contacter ",
-        "userDefined": false
-      },
-      {
-        "text": "Marie",
-        "alias": "Qui",
-        "meta": "@Qui",
-        "userDefined": true
-      }
-    ],
-    "isTemplate": false,
-    "count": 0,
-    "updated": 0
-  },
-  {
-    "id": "b45d1153-817b-467c-95fa-692a08d7735b",
-    "data": [
-      {
-        "text": "contacter ",
-        "userDefined": false
-      },
-      {
-        "text": "Aya",
-        "alias": "Qui",
-        "meta": "@Qui",
-        "userDefined": true
-      }
-    ],
-    "isTemplate": false,
-    "count": 0,
-    "updated": 0
-  },
-  {
-    "id": "56d8e4ec-71bb-4a9c-8c16-b387c3f3c085",
-    "data": [
-      {
-        "text": "Nicolas",
-        "alias": "Qui",
-        "meta": "@Qui",
-        "userDefined": true
-      }
-    ],
-    "isTemplate": false,
-    "count": 0,
-    "updated": 0
-  },
-  {
-    "id": "8af17499-4508-4dde-81d0-a7d7dde5253f",
-    "data": [
-      {
-        "text": "Contacte ",
-        "userDefined": false
-      },
-      {
-        "text": "truc",
-        "alias": "Qui",
-        "meta": "@Qui",
-        "userDefined": true
-      }
-    ],
-    "isTemplate": false,
-    "count": 0,
-    "updated": 0
-  },
-  {
-    "id": "de157d6e-3b24-4f56-a8d1-2543404f8758",
-    "data": [
-      {
-        "text": "je veux contacter ",
-        "userDefined": false
-      },
-      {
-        "text": "Monsieur tournesol",
-        "alias": "Qui",
-        "meta": "@Qui",
-        "userDefined": true
-      }
-    ],
-    "isTemplate": false,
-    "count": 0,
-    "updated": 0
-  },
-  {
-    "id": "6dd7185b-759f-486f-8ac1-dc975e1b37c5",
-    "data": [
-      {
-        "text": "contactez ",
-        "userDefined": false
-      },
-      {
-        "text": "m totoro",
-        "alias": "Qui",
-        "meta": "@Qui",
-        "userDefined": true
-      }
-    ],
-    "isTemplate": false,
-    "count": 0,
-    "updated": 0
-  },
-  {
-    "id": "ac2d502b-9347-4638-8857-bd3ca579519f",
-    "data": [
-      {
-        "text": "contactez ",
-        "userDefined": false
-      },
-      {
-        "text": "Martin",
-        "alias": "Qui",
-        "meta": "@Qui",
-        "userDefined": true
-      }
-    ],
-    "isTemplate": false,
-    "count": 0,
-    "updated": 0
-  },
-  {
-    "id": "c33112e0-f342-4384-80ab-a3f297c9da06",
->>>>>>> 5c0adc205a82cade47e6de2c0e2a9ab4d63ee00d
-    "data": [
-      {
-        "text": "je veux contacter ",
-        "userDefined": false
-      },
-      {
-<<<<<<< HEAD
         "text": "Monsieur Madame et Madame Monsieur.",
         "alias": "Qui",
         "meta": "@Qui",
@@ -807,9 +369,6 @@
       },
       {
         "text": "Martin",
-=======
-        "text": "M. Martin",
->>>>>>> 5c0adc205a82cade47e6de2c0e2a9ab4d63ee00d
         "alias": "Qui",
         "meta": "@Qui",
         "userDefined": true
@@ -820,7 +379,6 @@
     "updated": 0
   },
   {
-<<<<<<< HEAD
     "id": "c33112e0-f342-4384-80ab-a3f297c9da06",
     "data": [
       {
@@ -829,7 +387,16 @@
       },
       {
         "text": "M. Martin",
-=======
+        "alias": "Qui",
+        "meta": "@Qui",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
     "id": "ceab4d82-7a16-44a4-923f-58804dfca7c2",
     "data": [
       {
@@ -838,7 +405,6 @@
       },
       {
         "text": "martin",
->>>>>>> 5c0adc205a82cade47e6de2c0e2a9ab4d63ee00d
         "alias": "Qui",
         "meta": "@Qui",
         "userDefined": true
@@ -849,16 +415,6 @@
     "updated": 0
   },
   {
-<<<<<<< HEAD
-    "id": "ceab4d82-7a16-44a4-923f-58804dfca7c2",
-    "data": [
-      {
-        "text": "je souhaite contacter ",
-        "userDefined": false
-      },
-      {
-        "text": "martin",
-=======
     "id": "bce83244-be80-4250-bb63-3ed79d0e3ba6",
     "data": [
       {
@@ -867,7 +423,6 @@
       },
       {
         "text": "Mademoiselle Liloujil",
->>>>>>> 5c0adc205a82cade47e6de2c0e2a9ab4d63ee00d
         "alias": "Qui",
         "meta": "@Qui",
         "userDefined": true
@@ -878,36 +433,6 @@
     "updated": 0
   },
   {
-<<<<<<< HEAD
-    "id": "bce83244-be80-4250-bb63-3ed79d0e3ba6",
-    "data": [
-      {
-        "text": "contactez ",
-        "userDefined": false
-      },
-      {
-        "text": "Mademoiselle Liloujil",
-=======
-    "id": "4eacf3a4-82d4-4c6f-b1ea-5a9baa91f7d5",
-    "data": [
-      {
-        "text": "Bonjour, je souhaite contacter ",
-        "userDefined": false
-      },
-      {
-        "text": "Monsieur Reynet",
->>>>>>> 5c0adc205a82cade47e6de2c0e2a9ab4d63ee00d
-        "alias": "Qui",
-        "meta": "@Qui",
-        "userDefined": true
-      }
-    ],
-    "isTemplate": false,
-    "count": 0,
-    "updated": 0
-  },
-  {
-<<<<<<< HEAD
     "id": "4eacf3a4-82d4-4c6f-b1ea-5a9baa91f7d5",
     "data": [
       {
@@ -933,15 +458,6 @@
         "userDefined": false
       },
       {
-=======
-    "id": "61c5a302-6a9a-470c-b505-795048b563de",
-    "data": [
-      {
-        "text": "bonjour ! je souhaite contacter ",
-        "userDefined": false
-      },
-      {
->>>>>>> 5c0adc205a82cade47e6de2c0e2a9ab4d63ee00d
         "text": "Monsieur REYNET",
         "alias": "Qui",
         "meta": "@Qui",
@@ -997,12 +513,7 @@
       },
       {
         "text": "l\u0027ENSTA",
-<<<<<<< HEAD
         "meta": "@sys.ignore",
-=======
-        "alias": "Qui",
-        "meta": "@Qui",
->>>>>>> 5c0adc205a82cade47e6de2c0e2a9ab4d63ee00d
         "userDefined": true
       }
     ],
@@ -1019,12 +530,7 @@
       },
       {
         "text": "plusieurs personnes",
-<<<<<<< HEAD
         "meta": "@sys.ignore",
-=======
-        "alias": "Qui",
-        "meta": "@Qui",
->>>>>>> 5c0adc205a82cade47e6de2c0e2a9ab4d63ee00d
         "userDefined": true
       }
     ],
@@ -1041,12 +547,7 @@
       },
       {
         "text": "quelqu\u0027un",
-<<<<<<< HEAD
         "meta": "@sys.ignore",
-=======
-        "alias": "Qui",
-        "meta": "@Qui",
->>>>>>> 5c0adc205a82cade47e6de2c0e2a9ab4d63ee00d
         "userDefined": true
       }
     ],
@@ -1089,12 +590,7 @@
     "data": [
       {
         "text": "Marie",
-<<<<<<< HEAD
         "meta": "@sys.ignore",
-=======
-        "alias": "Qui",
-        "meta": "@Qui",
->>>>>>> 5c0adc205a82cade47e6de2c0e2a9ab4d63ee00d
         "userDefined": true
       }
     ],
@@ -1128,21 +624,13 @@
         "userDefined": false
       },
       {
-<<<<<<< HEAD
         "text": "Madame Quivouron et Madame Le lagadec",
-=======
-        "text": "Madame Quivouron et",
->>>>>>> 5c0adc205a82cade47e6de2c0e2a9ab4d63ee00d
         "alias": "Qui",
         "meta": "@Qui",
         "userDefined": true
       },
       {
-<<<<<<< HEAD
         "text": ".",
-=======
-        "text": " Madame Le lagadec.",
->>>>>>> 5c0adc205a82cade47e6de2c0e2a9ab4d63ee00d
         "userDefined": false
       }
     ],
@@ -1212,7 +700,6 @@
         "userDefined": false
       },
       {
-<<<<<<< HEAD
         "text": "Monsieur Reynet, Monsieur Le lann et Monsieur Le roux",
         "alias": "Qui",
         "meta": "@Qui",
@@ -1221,12 +708,6 @@
       {
         "text": ".",
         "userDefined": false
-=======
-        "text": "Monsieur Reynet, Monsieur Le lann et Monsieur Le roux.",
-        "alias": "Qui",
-        "meta": "@Qui",
-        "userDefined": true
->>>>>>> 5c0adc205a82cade47e6de2c0e2a9ab4d63ee00d
       }
     ],
     "isTemplate": false,
@@ -1242,12 +723,7 @@
       },
       {
         "text": "l\u0027ensta",
-<<<<<<< HEAD
         "meta": "@sys.ignore",
-=======
-        "alias": "Qui",
-        "meta": "@Qui",
->>>>>>> 5c0adc205a82cade47e6de2c0e2a9ab4d63ee00d
         "userDefined": true
       },
       {
@@ -1260,7 +736,6 @@
     "updated": 0
   },
   {
-<<<<<<< HEAD
     "id": "ffd6a345-68f3-428c-89d3-8d6bd48367fd",
     "data": [
       {
@@ -1269,16 +744,6 @@
       },
       {
         "text": "toto",
-=======
-    "id": "7703d086-8991-489f-83ab-b967fad1c167",
-    "data": [
-      {
-        "text": "Contactez ",
-        "userDefined": false
-      },
-      {
-        "text": "truc",
->>>>>>> 5c0adc205a82cade47e6de2c0e2a9ab4d63ee00d
         "alias": "Qui",
         "meta": "@Qui",
         "userDefined": true
@@ -1289,44 +754,6 @@
     "updated": 0
   },
   {
-<<<<<<< HEAD
-    "id": "d2e5a2f6-a053-4e74-aef9-f5821822fd51",
-    "data": [
-      {
-        "text": "je souhaite contacter ",
-        "userDefined": false
-      },
-      {
-        "text": "Mathéo",
-=======
-    "id": "ffd6a345-68f3-428c-89d3-8d6bd48367fd",
-    "data": [
-      {
-        "text": "cc je souhaite parler à ",
-        "userDefined": false
-      },
-      {
-        "text": "toto",
->>>>>>> 5c0adc205a82cade47e6de2c0e2a9ab4d63ee00d
-        "alias": "Qui",
-        "meta": "@Qui",
-        "userDefined": true
-      }
-    ],
-    "isTemplate": false,
-    "count": 0,
-    "updated": 0
-  },
-  {
-<<<<<<< HEAD
-    "id": "fb95b4bc-bb7a-4630-9aed-a6ff4ae1d519",
-    "data": [
-      {
-        "text": "Je souhaite contacter ",
-        "userDefined": false
-      },
-      {
-=======
     "id": "d2e5a2f6-a053-4e74-aef9-f5821822fd51",
     "data": [
       {
@@ -1352,7 +779,6 @@
         "userDefined": false
       },
       {
->>>>>>> 5c0adc205a82cade47e6de2c0e2a9ab4d63ee00d
         "text": "Nico",
         "alias": "Qui",
         "meta": "@Qui",
@@ -1489,11 +915,7 @@
         "text": "quelqu\u0027un qui peut me faire visiter l\u0027école",
         "alias": "Qui",
         "meta": "@Qui",
-<<<<<<< HEAD
         "userDefined": true
-=======
-        "userDefined": false
->>>>>>> 5c0adc205a82cade47e6de2c0e2a9ab4d63ee00d
       }
     ],
     "isTemplate": false,

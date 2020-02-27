@@ -11,6 +11,12 @@
       "messages": [
         {
           "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "To pay online: https://paiement.ensta-bretagne.fr/"
+        },
+        {
+          "type": 0,
           "lang": "fr",
           "condition": "",
           "speech": "Pour payer en ligne : https://paiement.ensta-bretagne.fr/"

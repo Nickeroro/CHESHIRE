@@ -24,20 +24,32 @@
           "noInputPromptMessages": [],
           "outputDialogContexts": [],
           "isList": false
+        },
+        {
+          "id": "87306374-8952-45d5-b8ff-09d238a49457",
+          "required": false,
+          "dataType": "@Statut_ENSTA",
+          "name": "Statut_ENSTA",
+          "value": "$Statut_ENSTA",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
         }
       ],
       "messages": [
         {
           "type": 0,
-          "lang": "fr",
+          "lang": "en",
           "condition": "",
-          "speech": "Les frais de dossier s\u0027élève à 30 €.\nLes frais de scolarité s\u0027élèvent à 2150 € pour les étudiants de l\u0027union européenne. Pour les étudiants non - européen voici les coûts : \n\nÉtudiants hors UE\t\nIngénierie automobile (1ère année)\t\t\t7 000 €\t\nIngénierie automobile : (2e année)\t\t\t5 000 €\t\nMaster en Hydrographie (2 ans)\t\t\t8 000 €/an\t\nMaster en Génie maritime (2 ans)\t\t\t8 000 €/an\t\nMaster en robotique mobile (2 ans)\t\t\t8 000 €/an\t\nMaster Architecture et sécurité des systèmes électroniques et logiciels (2 ans) 8 000 €/an\t\n\nLes organismes quant à eux payeront 12000 €."
+          "speech": "The application fee is € 30.\nTuition fees amount to € 2,150 for students from the European Union. For non - European students here are the costs:\n\nNon-EU students\nAutomotive engineering (1st year) € 7,000\nAutomotive engineering: (2nd year) 5,000 €\nMaster in Hydrography (2 years) € 8,000 / year\nMaster in Maritime Engineering (2 years) € 8,000 / year\nMaster in mobile robotics (2 years) € 8,000 / year\nMaster Architecture and Security of Electronic Systems and Software (2 years) € 8,000 / year\n\nOrganizations will pay € 12,000."
         },
         {
           "type": 0,
-          "lang": "en",
+          "lang": "fr",
           "condition": "",
-          "speech": []
+          "speech": "Les frais de dossier s\u0027élève à 30 €.\nLes frais de scolarité s\u0027élèvent à 2150 € pour les étudiants de l\u0027union européenne. Pour les étudiants non - européen voici les coûts : \n\nÉtudiants hors UE\t\nIngénierie automobile (1ère année)\t\t\t7 000 €\t\nIngénierie automobile : (2e année)\t\t\t5 000 €\t\nMaster en Hydrographie (2 ans)\t\t\t8 000 €/an\t\nMaster en Génie maritime (2 ans)\t\t\t8 000 €/an\t\nMaster en robotique mobile (2 ans)\t\t\t8 000 €/an\t\nMaster Architecture et sécurité des systèmes électroniques et logiciels (2 ans) 8 000 €/an\t\n\nLes organismes quant à eux payeront 12000 €."
         }
       ],
       "defaultResponsePlatforms": {},

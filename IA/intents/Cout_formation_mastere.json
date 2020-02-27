@@ -10,7 +10,7 @@
   "responses": [
     {
       "resetContexts": false,
-      "action": "Cout_formation.Cout_formation-custom-2",
+      "action": "Cout_formation.Cout_formation_mastere",
       "affectedContexts": [],
       "parameters": [
         {
@@ -24,20 +24,32 @@
           "noInputPromptMessages": [],
           "outputDialogContexts": [],
           "isList": false
+        },
+        {
+          "id": "778330f2-8a47-4dfc-a17a-ee23f1cd3453",
+          "required": false,
+          "dataType": "@Statut_ENSTA",
+          "name": "Statut_ENSTA",
+          "value": "$Statut_ENSTA",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
         }
       ],
       "messages": [
         {
           "type": 0,
-          "lang": "fr",
+          "lang": "en",
           "condition": "",
-          "speech": "Les frais de dossier s\u0027élève à 30 € et les frais de scolarité pour les étudiants s\u0027élèvent à 8000 €. \nPour les organismes, les frais de scolarité s\u0027élèvent à 12000 €."
+          "speech": "The application fee is € 30 and the tuition fee for students is € 8,000.\nFor organizations, the tuition fees amount to € 12,000."
         },
         {
           "type": 0,
-          "lang": "en",
+          "lang": "fr",
           "condition": "",
-          "speech": []
+          "speech": "Les frais de dossier s\u0027élève à 30 € et les frais de scolarité pour les étudiants s\u0027élèvent à 8000 €. \nPour les organismes, les frais de scolarité s\u0027élèvent à 12000 €."
         }
       ],
       "defaultResponsePlatforms": {},

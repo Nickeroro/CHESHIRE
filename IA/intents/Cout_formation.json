@@ -30,6 +30,12 @@
       "messages": [
         {
           "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Would you like information for:\n\n- initial training \n\n- masters\n\n- specialized masters"
+        },
+        {
+          "type": 0,
           "lang": "fr",
           "condition": "",
           "speech": "Souhaitez-vous des informations pour :\n\n- la formation par ingénieur \n\n- les master\n\n- les mastères"

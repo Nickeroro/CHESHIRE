@@ -16,15 +16,15 @@
       "messages": [
         {
           "type": 0,
-          "lang": "fr",
+          "lang": "en",
           "condition": "",
-          "speech": "Pour les étudiants européens, les frais de dossier s\u0027élève à 30 € et pour les frais de scolarité   2200 € (0 € pour les étudiants sous statut militaire et pour les étudiants en alternance). \n\nPour les étudiants hors UE, les frais de dossier s\u0027élève à 30 € et pour les frais de scolarité   4150 € (0 € pour les étudiants en alternance)."
+          "speech": "For European students, the application fee is € 30 and for tuition fees € 2,200 (€ 0 for students with military status and for work-study students).\n\nFor non-EU students, the application fee is € 30 and for tuition fees € 4,150 (€ 0 for work-study students)."
         },
         {
           "type": 0,
-          "lang": "en",
+          "lang": "fr",
           "condition": "",
-          "speech": []
+          "speech": "Pour les étudiants européens, les frais de dossier s\u0027élève à 30 € et pour les frais de scolarité   2200 € (0 € pour les étudiants sous statut militaire et pour les étudiants en alternance). \n\nPour les étudiants hors UE, les frais de dossier s\u0027élève à 30 € et pour les frais de scolarité   4150 € (0 € pour les étudiants en alternance)."
         }
       ],
       "defaultResponsePlatforms": {},

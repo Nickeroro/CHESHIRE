@@ -1,9 +1,13 @@
 [
   {
-    "id": "3b9f77f1-57eb-46db-9704-0543d984d6fd",
+    "id": "52b8adcc-f75e-4360-b859-8841624530e6",
     "data": [
       {
-        "text": "master international ingénierie automobile",
+        "text": "specialized ",
+        "userDefined": false
+      },
+      {
+        "text": "master",
         "alias": "Statut_ENSTA",
         "meta": "@Statut_ENSTA",
         "userDefined": false

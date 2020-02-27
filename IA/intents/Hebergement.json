@@ -11,6 +11,12 @@
       "messages": [
         {
           "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Located at the heart of the campus, the student residence (RDE) has 222 rooms (several of which are equipped for people with reduced mobility). For a price of 270eur, students find on the campus all the infrastructures that make their daily life pleasant: restaurant, cafeteria, student house, foyer, school sports facilities…"
+        },
+        {
+          "type": 0,
           "lang": "fr",
           "condition": "",
           "speech": "Située au cœur du campus, la résidence des élèves (RDE) comprend 222 chambres (dont plusieurs sont équipées pour les personnes à mobilité réduite). Pour un prix de 270eur , les étudiants retrouvent sur le campus toutes les infrastructures qui rendent leur quotidien agréable : restaurant, cafétéria, maison des élèves, foyer, équipements sportifs de l\u0027école…"

@@ -15,43 +15,11 @@
       ],
       "parameters": [
         {
-<<<<<<< HEAD
           "id": "e49e65a6-2e3c-48e8-a896-51920c8a9615",
           "required": false,
           "dataType": "@Niveau_etude",
           "name": "Niveau_etude",
           "value": "$Niveau_etude",
-=======
-          "id": "e98a86a4-0d6a-4dcb-973e-a34e10e2b00d",
-          "required": false,
-          "dataType": "@Filieres",
-          "name": "Filieres",
-          "value": "$Filieres",
-          "prompts": [
-            {
-              "lang": "fr",
-              "value": "Avez-vous une idée de la filière sur laquelle vous voulez des informations ? (Filières : SPID, PFN,... )"
-            }
-          ],
-          "promptMessages": [],
-          "noMatchPromptMessages": [],
-          "noInputPromptMessages": [],
-          "outputDialogContexts": [],
-          "isList": false
-        },
-        {
-          "id": "7c9973ba-363e-4a54-b1d2-ef764274e793",
-          "required": true,
-          "dataType": "@Niveau_etude",
-          "name": "Niveau_etude",
-          "value": "$Niveau_etude",
-          "prompts": [
-            {
-              "lang": "fr",
-              "value": "Vous êtes actuellement en :\n\n- CPGE (Maths spé - Bac +2)\n- IUT, BTS (Bac +2), Licence pro, prépa ATS (Bac +3)\n- Licence (L3 - Bac +3)\n- Master 1 (M1 - Bac +4)\n- Master 2 (M2 - Bac +5)"
-            }
-          ],
->>>>>>> 5c0adc205a82cade47e6de2c0e2a9ab4d63ee00d
           "promptMessages": [],
           "noMatchPromptMessages": [],
           "noInputPromptMessages": [],
@@ -59,11 +27,7 @@
           "isList": true
         },
         {
-<<<<<<< HEAD
           "id": "67d74736-c4a5-45ce-a75e-1c73bc3a0b7d",
-=======
-          "id": "0bfda23b-56ab-47b5-a13f-147d042a8d13",
->>>>>>> 5c0adc205a82cade47e6de2c0e2a9ab4d63ee00d
           "required": false,
           "dataType": "@Integrer_ENSTA",
           "name": "Integrer_ENSTA",
@@ -75,25 +39,11 @@
           "isList": false
         },
         {
-<<<<<<< HEAD
           "id": "bc3a77f5-3f5b-4741-a73f-f6bbe938910b",
           "required": false,
           "dataType": "@Statut_ENSTA",
           "name": "Statut_ENSTA",
           "value": "$Statut_ENSTA",
-=======
-          "id": "9dd39476-81ff-4c8b-ab89-25363d4b18a3",
-          "required": true,
-          "dataType": "@Statut_ENSTA",
-          "name": "Statut_ENSTA",
-          "value": "$Statut_ENSTA",
-          "prompts": [
-            {
-              "lang": "fr",
-              "value": "Souhaitez-vous des renseignements sur : \n\n- le cycle ingénieur par alternance\n- le cycle ingénieur sous statut étudiant\n- le cycle ingénieur sous statut militaire \n- les masters \n- les mastères spécialisés"
-            }
-          ],
->>>>>>> 5c0adc205a82cade47e6de2c0e2a9ab4d63ee00d
           "promptMessages": [],
           "noMatchPromptMessages": [],
           "noInputPromptMessages": [],
@@ -104,7 +54,6 @@
       "messages": [
         {
           "type": 0,
-<<<<<<< HEAD
           "lang": "en",
           "condition": "",
           "speech": "Your actually are:\n\n- attending a European partner university (Erasmus+ Program)\n- attending a partner university outside Europe with FITEC Program\n- attending a partner university outside Europe (other partnerships)\n- A BSC graduate or equivalent\n- an MSC graduate"
@@ -114,11 +63,6 @@
           "lang": "fr",
           "condition": "",
           "speech": "Vous êtes actuellement en :\n\n- CPGE (Maths spé - Bac +2)\n- IUT, BTS (Bac +2), Licence pro, prépa ATS (Bac +3)\n- Licence (L3 - Bac +3)\n- Master 1 (M1 - Bac +4)\n- Master 2 (M2 - Bac +5)"
-=======
-          "lang": "fr",
-          "condition": "",
-          "speech": "Vous êtes en $Niveau_etude et vous êtes intéressé(e) par $Statut_ENSTA.\n\nEst-ce bien cela ?"
->>>>>>> 5c0adc205a82cade47e6de2c0e2a9ab4d63ee00d
         }
       ],
       "defaultResponsePlatforms": {},
