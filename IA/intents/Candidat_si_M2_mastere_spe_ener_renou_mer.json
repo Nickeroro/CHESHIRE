@@ -1,0 +1,55 @@
+{
+  "id": "6e7ac2b4-e7e4-4eb0-bd34-c46caf4ba442",
+  "parentId": "d7db4eec-d722-4d90-96b3-ea2dd6e4db50",
+  "rootParentId": "d6e46e22-e0de-4b16-ba31-af6411015a33",
+  "name": "Candidat_si_M2_mastere_spe_ener_renou_mer",
+  "auto": true,
+  "contexts": [
+    "Candidat_si_M2_mastere_spe-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Candidat.Candidat-custom.Candidat_si_M2_mastere_spe.Candidat_si_M2_mastere_spe-custom-2",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "cd6bd9ea-ce8b-4366-b465-67f58dc67221",
+          "required": false,
+          "dataType": "@Master",
+          "name": "Master",
+          "value": "$Master",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "fr",
+          "condition": "",
+          "speech": "La nécessité de diversifier les sources d’approvisionnement en énergie, en particulier de développer l’énergie d’origine renouvelable, apparaît clairement. En complément du solaire, de l’éolien, de la biomasse et d’autres sources, les énergies marines renouvelables représentent un véritable potentiel, notamment en Bretagne mais aussi à l\u0027export. Ce mastère spécialisé® vous permet de devenir expert en énergies marines renouvelables.\n\nLe programme est : \n\n- connaissance et modélisation des ressources énergétiques marines\n\n- conception de machines et de parcs\n\n- impacts écologiques et sociétaux\n\n- enjeux économiques\n\nLa brochure se trouve : \n\nhttps://www.ensta-bretagne.fr/sites/default/files/2018-12/emr_8volets_2018_web_0.pdf"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

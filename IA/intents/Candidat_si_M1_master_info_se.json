@@ -1,0 +1,55 @@
+{
+  "id": "e5c44df0-17aa-4e88-aed9-2c60e71eca8c",
+  "parentId": "38cfb0ac-ce57-4efb-8307-a394eab9645e",
+  "rootParentId": "d6e46e22-e0de-4b16-ba31-af6411015a33",
+  "name": "Candidat_si_M1_master_info_se",
+  "auto": true,
+  "contexts": [
+    "Candidat_si_M1_master-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Candidat.Candidat_si_M1.Candidat_si_M1_master.Candidat_si_M1_master_info_se",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "bad7161a-2322-4799-b731-863721b177ef",
+          "required": false,
+          "dataType": "@Master",
+          "name": "Master",
+          "value": "$Master",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "fr",
+          "condition": "",
+          "speech": "Ce Master \"Informatique\", parcours \"Systèmes interactifs, intelligents et autonomes\" est délivré par l\u0027ENSTA Bretagne, l’UBO (Université de Bretagne Occidentale), l\u0027ENIB et l\u0027IMT.\n\nInscription : UBO\nContact ENSTA Bretagne : Joël Champeau\n\nEn savoir plus sur ce master :\n\nhttps://www.univ-brest.fr/departement-informatique/menu/Master+Informatique/Parcours-SIIA"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

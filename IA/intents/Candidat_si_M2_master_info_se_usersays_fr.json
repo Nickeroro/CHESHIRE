@@ -1,0 +1,20 @@
+[
+  {
+    "id": "2f8daa9e-d1a5-44bc-932c-0ed1bdd69e8a",
+    "data": [
+      {
+        "text": "informatique",
+        "alias": "Master",
+        "meta": "@Master",
+        "userDefined": false
+      },
+      {
+        "text": " : systèmes interactifs, intelligents et autonomes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

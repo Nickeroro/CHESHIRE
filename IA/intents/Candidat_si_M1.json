@@ -1,0 +1,91 @@
+{
+  "id": "4c1207c1-9977-4560-ae8e-bfec7bbdb852",
+  "parentId": "d6e46e22-e0de-4b16-ba31-af6411015a33",
+  "rootParentId": "d6e46e22-e0de-4b16-ba31-af6411015a33",
+  "name": "Candidat_si_M1",
+  "auto": true,
+  "contexts": [
+    "Candidat-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Candidat.Candidat_si_M1",
+      "affectedContexts": [
+        {
+          "name": "Candidat_si_M1-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "d4a5ffc3-a15f-4ea1-8dc4-7c73b42a99c4",
+          "required": false,
+          "dataType": "@Niveau_etude",
+          "name": "Niveau_etude",
+          "value": "$Niveau_etude",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "f41e2878-5a50-451e-b6a8-b6102c0a6f75",
+          "required": false,
+          "dataType": "@Integrer_ENSTA",
+          "name": "Integrer_ENSTA",
+          "value": "$Integrer_ENSTA",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "8ea9196c-cb84-4c23-b9ec-83feb91905d5",
+          "required": true,
+          "dataType": "@Statut_ENSTA",
+          "name": "Statut_ENSTA",
+          "value": "$Statut_ENSTA",
+          "prompts": [
+            {
+              "lang": "fr",
+              "value": "Souhaitez-vous des informations sur : \n\n- le cycle ingénieur généraliste\n- les masters"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "fr",
+          "condition": "",
+          "speech": "Vous souhaitez des informations sur $Statut_ENSTA."
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

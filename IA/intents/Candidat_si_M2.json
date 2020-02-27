@@ -1,0 +1,91 @@
+{
+  "id": "3085f46d-3e24-43e4-9590-3b9fcedee6f0",
+  "parentId": "d6e46e22-e0de-4b16-ba31-af6411015a33",
+  "rootParentId": "d6e46e22-e0de-4b16-ba31-af6411015a33",
+  "name": "Candidat_si_M2",
+  "auto": true,
+  "contexts": [
+    "Candidat-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Candidat.Candidat-custom",
+      "affectedContexts": [
+        {
+          "name": "Candidat_si_M2-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "604fb910-ffab-4ce3-b5af-788d7f978dd5",
+          "required": false,
+          "dataType": "@Niveau_etude",
+          "name": "Niveau_etude",
+          "value": "$Niveau_etude",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "e939fb1d-3142-49c3-acaf-013cc3f61611",
+          "required": false,
+          "dataType": "@Integrer_ENSTA",
+          "name": "Integrer_ENSTA",
+          "value": "$Integrer_ENSTA",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "12c5c18b-8dbe-4110-af2b-8e4aed5a4688",
+          "required": true,
+          "dataType": "@Statut_ENSTA",
+          "name": "Statut_ENSTA",
+          "value": "$Statut_ENSTA",
+          "prompts": [
+            {
+              "lang": "fr",
+              "value": "Vous êtes en M2 (Bac +5). Souhaiteriez vous des informations des informations sur :\n\n- Thèses\n- Masters\n- Mastères"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "fr",
+          "condition": "",
+          "speech": []
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,75 @@
+[
+  {
+    "id": "c6b4c219-c970-40ee-87cc-078295932db4",
+    "data": [
+      {
+        "text": "erasmus",
+        "alias": "Niveau_etude",
+        "meta": "@Niveau_etude",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1f579d78-ceab-4314-8a4d-f443f045b928",
+    "data": [
+      {
+        "text": "FITEC Program",
+        "alias": "Niveau_etude",
+        "meta": "@Niveau_etude",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "00d3e06f-3d8d-422a-ace8-71a73f3fca0d",
+    "data": [
+      {
+        "text": "I\u0027m attending a ",
+        "userDefined": false
+      },
+      {
+        "text": "European partner university",
+        "alias": "Niveau_etude",
+        "meta": "@Niveau_etude",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e205e99b-a501-46fb-9a06-029c9ba66828",
+    "data": [
+      {
+        "text": "I wanna ",
+        "userDefined": false
+      },
+      {
+        "text": "do",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Erasmus",
+        "alias": "Niveau_etude",
+        "meta": "@Niveau_etude",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  }
+]

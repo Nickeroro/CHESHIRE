@@ -1,0 +1,182 @@
+[
+  {
+    "id": "6c44369e-6fb2-4614-9a74-84c9b335744a",
+    "data": [
+      {
+        "text": "bonjour j\u0027ai un ",
+        "userDefined": false
+      },
+      {
+        "text": "contrôle en java",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d6a1e945-d8b1-4e94-8aad-2ba2554c2e0d",
+    "data": [
+      {
+        "text": "demain",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": true
+      },
+      {
+        "text": " j\u0027ai un ",
+        "userDefined": false
+      },
+      {
+        "text": "be en ingénierie système",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": ". as-tu quelques choses pour moi ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "226122d9-0c48-4a4c-aafd-8a7ee99ea998",
+    "data": [
+      {
+        "text": "as-tu le ",
+        "userDefined": false
+      },
+      {
+        "text": "sujet",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " du ",
+        "userDefined": false
+      },
+      {
+        "text": "be",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "76d43757-b0ed-4688-9ea3-33dc4e4761a4",
+    "data": [
+      {
+        "text": "devoirs",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 0
+  },
+  {
+    "id": "d88072f8-323f-4176-bf8d-82d611068f4d",
+    "data": [
+      {
+        "text": "devoir",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f26b5f51-b6ad-48a8-bfe2-04d5f49e311a",
+    "data": [
+      {
+        "text": "Donne ",
+        "userDefined": false
+      },
+      {
+        "text": "moi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " les réponses du ",
+        "userDefined": false
+      },
+      {
+        "text": "bureau d\u0027étude  de FPGA",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b6efdedb-bed1-43be-a158-731fb117acb6",
+    "data": [
+      {
+        "text": "Je cherche les ",
+        "userDefined": false
+      },
+      {
+        "text": "sujets",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "de l\u0027année dernière",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      },
+      {
+        "text": " de l\u0027UV ",
+        "userDefined": false
+      },
+      {
+        "text": "5",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      },
+      {
+        "text": "3",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "70ac1fbd-8142-43bc-becf-c1a32de7ee18",
+    "data": [
+      {
+        "text": "Devoirs",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

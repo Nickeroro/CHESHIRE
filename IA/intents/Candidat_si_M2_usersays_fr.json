@@ -1,0 +1,110 @@
+[
+  {
+    "id": "9f07d0e1-d887-4ec1-b906-a65638e09bc3",
+    "data": [
+      {
+        "text": "je suis ",
+        "userDefined": false
+      },
+      {
+        "text": "M2",
+        "alias": "Niveau_etude",
+        "meta": "@Niveau_etude",
+        "userDefined": false
+      },
+      {
+        "text": " et je voudrais faire ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "mastère",
+        "alias": "Statut_ENSTA",
+        "meta": "@Statut_ENSTA",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a6f97210-27eb-4ea2-9606-87324d3753fe",
+    "data": [
+      {
+        "text": "master 2",
+        "alias": "Niveau_etude",
+        "meta": "@Niveau_etude",
+        "userDefined": false
+      },
+      {
+        "text": " et je souhaite ",
+        "userDefined": false
+      },
+      {
+        "text": "intégrer",
+        "alias": "Integrer_ENSTA",
+        "meta": "@Integrer_ENSTA",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "master",
+        "alias": "Statut_ENSTA",
+        "meta": "@Statut_ENSTA",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d18035a5-757f-4b0c-ba2a-8ba504f51633",
+    "data": [
+      {
+        "text": "M2",
+        "alias": "Niveau_etude",
+        "meta": "@Niveau_etude",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9d5aa6e4-0592-49ad-9398-979036cb9248",
+    "data": [
+      {
+        "text": "master 2",
+        "alias": "Niveau_etude",
+        "meta": "@Niveau_etude",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

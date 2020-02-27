@@ -1,0 +1,42 @@
+{
+  "id": "d85eeb51-4c8a-4d87-afdc-67eea8e70911",
+  "parentId": "3d466feb-b3b9-42a1-9546-27e80a38f2f5",
+  "rootParentId": "3d466feb-b3b9-42a1-9546-27e80a38f2f5",
+  "name": "Cout_formation_fi",
+  "auto": true,
+  "contexts": [
+    "Cout_formation-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Cout_formation.Cout_formation_fi",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "fr",
+          "condition": "",
+          "speech": "Pour les étudiants européens, les frais de dossier s\u0027élève à 30 € et pour les frais de scolarité   2200 € (0 € pour les étudiants sous statut militaire et pour les étudiants en alternance). \n\nPour les étudiants hors UE, les frais de dossier s\u0027élève à 30 € et pour les frais de scolarité   4150 € (0 € pour les étudiants en alternance)."
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,20 @@
+[
+  {
+    "value": "Brochure",
+    "synonyms": [
+      "Brochure",
+      "Paper",
+      "Catalog"
+    ]
+  },
+  {
+    "value": "File",
+    "synonyms": [
+      "File",
+      "Folder",
+      "Case",
+      "Record",
+      "Brief"
+    ]
+  }
+]

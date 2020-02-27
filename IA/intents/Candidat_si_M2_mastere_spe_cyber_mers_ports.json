@@ -1,0 +1,55 @@
+{
+  "id": "0fca23b1-4b64-46c1-9867-c2769c3dca9c",
+  "parentId": "d7db4eec-d722-4d90-96b3-ea2dd6e4db50",
+  "rootParentId": "d6e46e22-e0de-4b16-ba31-af6411015a33",
+  "name": "Candidat_si_M2_mastere_spe_cyber_mers_ports",
+  "auto": true,
+  "contexts": [
+    "Candidat_si_M2_mastere_spe-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Candidat.Candidat-custom.Candidat_si_M2_mastere_spe.Candidat_si_M2_mastere_spe_cyber_mers_ports",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "3980dd4f-500e-4328-9086-be83c628b80c",
+          "required": false,
+          "dataType": "@Master",
+          "name": "Master",
+          "value": "$Master",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "fr",
+          "condition": "",
+          "speech": "Le Mastère Spécialisé® \"Cybersécurité des systèmes maritimes et portuaires\", unique en Europe, vous propose de développer une expertise recherchée pour contrer les attaques actuelles et détecter les menaces futures du secteur maritime et portuaire. Ce mastère est admissible sous dossier et entretien après l\u0027obtention d\u0027un bac +4 ou bac +3 avec 3 ans d\u0027expériences. Vous trouverez la brochure sous : \n\nhttps://www.ensta-bretagne.fr/sites/default/files/2020-01/mastere-specialise-cybersecurite-systemes-maritimes-portuaires.pdf"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,55 @@
+{
+  "id": "688ad473-cd37-49a1-9290-8f703d581bce",
+  "parentId": "d7db4eec-d722-4d90-96b3-ea2dd6e4db50",
+  "rootParentId": "d6e46e22-e0de-4b16-ba31-af6411015a33",
+  "name": "Candidat_si_M2_mastere_spe_manag_proj_mer",
+  "auto": true,
+  "contexts": [
+    "Candidat_si_M2_mastere_spe-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Candidat.Candidat-custom.Candidat_si_M2_mastere_spe.Candidat_si_M2_mastere_spe_manag_proj_mer",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "38f46389-07cc-4fda-ae8f-c01789a3b504",
+          "required": false,
+          "dataType": "@Master",
+          "name": "Master",
+          "value": "$Master",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "fr",
+          "condition": "",
+          "speech": "Ce mastère spécialisé® forme des projects managers responsables du pilotage d’un ou plusieurs projets depuis la phase d’analyse des besoins jusqu’à la phase ultime d’évaluation. Dans leurs fonctions, ils-elles sauront faire preuve d’anticipation afin d’optimiser les risques et opportunités dans un environnement complexe et incertain. Ils-elles anticipent ainsi les impacts des transformations et conduisent l’accompagnement du changement. \n\nLes admissions se font sous dossier et entretien en bac +4.  Le programme est le suivant : \n\n- Conception et mise en œuvre d’un projet maritime\n\n- Expertise et maîtrise des techniques liées aux spécificités du domaine maritime\n\n- Management d’équipe internationale\n\n- Gestion administrative et financière\n\n- Communication et gestion de partenariat\n\n- Évaluation et développement de la qualité\n\nLa brochure se trouve : \n\nhttps://www.ensta-bretagne.fr/sites/default/files/2018-09/ms_mpm_finalweb.pdf"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

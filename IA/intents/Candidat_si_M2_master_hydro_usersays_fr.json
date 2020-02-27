@@ -1,0 +1,30 @@
+[
+  {
+    "id": "d36676b5-40d2-4b82-9f01-66d92c093e07",
+    "data": [
+      {
+        "text": "master hydro",
+        "alias": "Master",
+        "meta": "@Master",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f1bea36b-b5b9-4749-a959-9798e82001cf",
+    "data": [
+      {
+        "text": "hydrographie",
+        "alias": "Master",
+        "meta": "@Master",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

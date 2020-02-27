@@ -1,0 +1,30 @@
+[
+  {
+    "id": "84f9357c-37fd-4f91-ab3b-eff215d40781",
+    "data": [
+      {
+        "text": "MSC",
+        "alias": "Niveau_etude",
+        "meta": "@Niveau_etude",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d415d486-b6f8-4afb-ab8b-0b50168a4a92",
+    "data": [
+      {
+        "text": "MSC graduate",
+        "alias": "Niveau_etude",
+        "meta": "@Niveau_etude",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

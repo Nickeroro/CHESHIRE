@@ -1,0 +1,31 @@
+{
+  "id": "198e345b-c443-42f9-b21b-d39489d6e5b6",
+  "name": "Hebergement",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "fr",
+          "condition": "",
+          "speech": "Située au cœur du campus, la résidence des élèves (RDE) comprend 222 chambres (dont plusieurs sont équipées pour les personnes à mobilité réduite). Pour un prix de 270eur , les étudiants retrouvent sur le campus toutes les infrastructures qui rendent leur quotidien agréable : restaurant, cafétéria, maison des élèves, foyer, équipements sportifs de l\u0027école…"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

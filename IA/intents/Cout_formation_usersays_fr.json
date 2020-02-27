@@ -1,0 +1,70 @@
+[
+  {
+    "id": "7bba72a5-d255-4368-b19a-8c3b268aa3d6",
+    "data": [
+      {
+        "text": "combien coûte le ",
+        "userDefined": false
+      },
+      {
+        "text": "mastère",
+        "alias": "Niveau_etude",
+        "meta": "@Niveau_etude",
+        "userDefined": false
+      },
+      {
+        "text": " ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "93aa2267-b6c1-4b1d-b224-a6276565acb7",
+    "data": [
+      {
+        "text": "Combien coûte le ",
+        "userDefined": false
+      },
+      {
+        "text": "master",
+        "alias": "Niveau_etude",
+        "meta": "@Niveau_etude",
+        "userDefined": false
+      },
+      {
+        "text": " ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7e55c0e3-91a7-42e6-8543-a4b1aeadd4b9",
+    "data": [
+      {
+        "text": "Combien coûte la formation d\u0027ingénieur ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a3b761ac-2a33-4c01-859f-4da7c8005eb7",
+    "data": [
+      {
+        "text": "coût formation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

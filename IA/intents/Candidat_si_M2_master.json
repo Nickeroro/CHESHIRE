@@ -1,0 +1,73 @@
+{
+  "id": "3ea5ff9d-683b-423e-8bf2-7536e3ab0859",
+  "parentId": "3085f46d-3e24-43e4-9590-3b9fcedee6f0",
+  "rootParentId": "d6e46e22-e0de-4b16-ba31-af6411015a33",
+  "name": "Candidat_si_M2_master",
+  "auto": true,
+  "contexts": [
+    "Candidat_si_M2-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Candidat.Candidat-custom.Candidat_si_M2_master",
+      "affectedContexts": [
+        {
+          "name": "Candidat_si_M2_master-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "5cb45dff-9db1-4e6f-bb75-eddae552ad43",
+          "required": false,
+          "dataType": "@Statut_ENSTA",
+          "name": "Statut_ENSTA",
+          "value": "$Statut_ENSTA",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "efe7813e-d879-4b85-9992-ee705f9eb394",
+          "required": false,
+          "dataType": "@sys.number",
+          "name": "number",
+          "value": "$number",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "fr",
+          "condition": "",
+          "speech": []
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

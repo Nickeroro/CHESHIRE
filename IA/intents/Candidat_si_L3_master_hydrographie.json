@@ -1,0 +1,55 @@
+{
+  "id": "8a8ee922-45c0-43d3-b859-87dfa5e2da52",
+  "parentId": "9aa870c9-9a1c-4fdb-b089-d855526ab239",
+  "rootParentId": "d6e46e22-e0de-4b16-ba31-af6411015a33",
+  "name": "Candidat_si_L3_master_hydrographie",
+  "auto": true,
+  "contexts": [
+    "Candidat_si_L3_master-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Candidat.Candidat_si_L3.Candidat_si_L3_master.Candidat_si_L3_master_hydrographie",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "f090a4fa-b939-47ab-91d3-01b2fca55344",
+          "required": false,
+          "dataType": "@Master",
+          "name": "Master",
+          "value": "$Master",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "fr",
+          "condition": "",
+          "speech": "Vous êtes intéressé par le master d\u0027ingénierie en hydrographie. Vous trouverez la plaquette : \n\nhttps://www.ensta-bretagne.fr/sites/default/files/2018-10/master-of-science-msc_hydrography.pdf"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,104 @@
+[
+  {
+    "id": "fa357ee3-b606-458a-9aef-3bc235d7c46f",
+    "data": [
+      {
+        "text": "cycle initial",
+        "alias": "Statut_ENSTA",
+        "meta": "@Statut_ENSTA",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b5fdf93d-03bc-4bb2-b270-f0e71f15747b",
+    "data": [
+      {
+        "text": "CI",
+        "alias": "Statut_ENSTA",
+        "meta": "@Statut_ENSTA",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ada8f99a-1019-4163-b541-060bb2f4491a",
+    "data": [
+      {
+        "text": "formation ",
+        "userDefined": false
+      },
+      {
+        "text": "ingénieur sous statut étudiant",
+        "alias": "Statut_ENSTA",
+        "meta": "@Statut_ENSTA",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f68182a3-3b6f-4a6e-8329-c960e67e9596",
+    "data": [
+      {
+        "text": "ingénieure généraliste",
+        "alias": "Statut_ENSTA",
+        "meta": "@Statut_ENSTA",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0a8a9cdb-567c-45e2-a12a-b0f034d3204a",
+    "data": [
+      {
+        "text": "formation initiale",
+        "alias": "Statut_ENSTA",
+        "meta": "@Statut_ENSTA",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0f3bf401-2308-457d-ae53-a3dcb55bdf85",
+    "data": [
+      {
+        "text": "cycle sous statut étudiant",
+        "alias": "Statut_ENSTA",
+        "meta": "@Statut_ENSTA",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "084db31e-fdaf-4fe2-ae92-00d6b7abb303",
+    "data": [
+      {
+        "text": "fise",
+        "alias": "Statut_ENSTA",
+        "meta": "@Statut_ENSTA",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

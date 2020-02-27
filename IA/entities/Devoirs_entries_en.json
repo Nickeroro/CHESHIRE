@@ -1,0 +1,27 @@
+[
+  {
+    "value": "Exam subject",
+    "synonyms": [
+      "Exam subject",
+      "Exam",
+      "Assignment"
+    ]
+  },
+  {
+    "value": "Design office",
+    "synonyms": [
+      "Design office",
+      "Practical courses",
+      "DO",
+      "BE"
+    ]
+  },
+  {
+    "value": "Oral",
+    "synonyms": [
+      "Oral",
+      "Oral submission",
+      "Oral presentation"
+    ]
+  }
+]

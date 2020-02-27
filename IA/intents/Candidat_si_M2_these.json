@@ -1,0 +1,61 @@
+{
+  "id": "b2def4a9-8352-4853-9417-5d313324609a",
+  "parentId": "3085f46d-3e24-43e4-9590-3b9fcedee6f0",
+  "rootParentId": "d6e46e22-e0de-4b16-ba31-af6411015a33",
+  "name": "Candidat_si_M2_these",
+  "auto": true,
+  "contexts": [
+    "Candidat_si_M2-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Candidat.Candidat-custom.Candidat_si_M2-custom-2",
+      "affectedContexts": [
+        {
+          "name": "Candidat_si_M2_these-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "23bf5630-9af2-4ddf-b29c-cd00f7ce5351",
+          "required": false,
+          "dataType": "@Statut_ENSTA",
+          "name": "Statut_ENSTA",
+          "value": "$Statut_ENSTA",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "fr",
+          "condition": "",
+          "speech": "Accessible à un diplômé de master ou de grade équivalent (typiquement diplôme d’ingénieur), le doctorat est un diplôme national, délivré par un établissement d’enseignement supérieur habilité, sanctionnant les travaux de recherche menés par un doctorant dans le cadre d’une thèse.\n\nCelle-ci se déroule généralement dans un laboratoire de recherche de l’établissement (ou bien partiellement en entreprise dans le cadre des conventions CIFRE), est encadrée par un ou plusieurs directeurs de thèse et dure normalement 3 ans. Les doctorants s’inscrivent dans des écoles doctorales qui les accompagnent dans leur parcours de formation par la recherche.\n\nLe doctorat est le diplôme internationalement reconnu.\n\nAccueillant plus de 100 doctorants dans ses laboratoires, l’ENSTA Bretagne est habilitée à délivrer le diplôme de doctorat. Elle est en effet co-accréditée avec d’autres établissements de l’UBL pour les deux écoles doctorales suivantes : \n\n- Ecole doctorale SPI - Science pour l\u0027ingénieur\n\n- Ecole doctorale Mathstic - Mathématiques et STIC (Sciences et technologies de l’Information de la communication et de la Connaissance)"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,30 @@
+[
+  {
+    "id": "151f333c-df90-4409-a4f3-0715d4cbae1e",
+    "data": [
+      {
+        "text": "masteres spé",
+        "alias": "Statut_ENSTA",
+        "meta": "@Statut_ENSTA",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b0562ff4-a04e-4953-9882-c519d7111954",
+    "data": [
+      {
+        "text": "mastères spécialisés",
+        "alias": "Statut_ENSTA",
+        "meta": "@Statut_ENSTA",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

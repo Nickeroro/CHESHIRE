@@ -1,0 +1,55 @@
+{
+  "id": "2f59ea99-9874-43bc-9479-31574be80268",
+  "parentId": "9aa870c9-9a1c-4fdb-b089-d855526ab239",
+  "rootParentId": "d6e46e22-e0de-4b16-ba31-af6411015a33",
+  "name": "Candidat_si_L3_master_hydrodyn",
+  "auto": true,
+  "contexts": [
+    "Candidat_si_L3_master-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Candidat.Candidat_si_L3.Candidat_si_L3_master.Candidat_si_L3_master_hydrodyn",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "a918d5a7-a2a5-4607-a205-3dc08fddf451",
+          "required": false,
+          "dataType": "@Master",
+          "name": "Master",
+          "value": "$Master",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "fr",
+          "condition": "",
+          "speech": "Ce Master \"Sciences Marines\", parcours \"Hydrodynamique navale\" est délivré par l’ENSTA Bretagne et l’UBO (Université de Bretagne Occidentale), établissements co-accrédités par le Ministère de l\u0027Enseignement Supérieur, de la Recherche et de l\u0027Innovation (MESRI).\n\nInscription : UBO\nContact ENSTA Bretagne : Jean-Baptiste Leroux (année 1) et Pierre-Michel Guilcher (année 2)\n\nEn savoir plus sur ce master : http://formations.univ-brest.fr/fr/index/sciences-de-la-mer-et-du-littoral-SML/master-XB/master-marine-sciences-program-fr_rne_0290346u_prog20209/parcours-hydrodynamique-navale-subprogram-3.html"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

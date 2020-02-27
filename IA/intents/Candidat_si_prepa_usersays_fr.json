@@ -1,0 +1,103 @@
+[
+  {
+    "id": "81fc4ae0-47a3-4f43-ae15-88c53b7298c1",
+    "data": [
+      {
+        "text": "je suis en ",
+        "userDefined": false
+      },
+      {
+        "text": "cpge",
+        "alias": "Niveau_etude",
+        "meta": "@Niveau_etude",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "ieta",
+        "alias": "Statut_ENSTA",
+        "meta": "@Statut_ENSTA",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2634f881-201a-4086-a40e-966dffcd50cf",
+    "data": [
+      {
+        "text": "CPGE",
+        "alias": "Niveau_etude",
+        "meta": "@Niveau_etude",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "467b1962-bc00-4365-b020-bf6f2d0b84da",
+    "data": [
+      {
+        "text": "je viens d\u0027",
+        "userDefined": false
+      },
+      {
+        "text": "une",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "classe préparatoire MPSI",
+        "alias": "Niveau_etude",
+        "meta": "@Niveau_etude",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "dca14d85-86bd-40e4-9f1b-78b599009924",
+    "data": [
+      {
+        "text": "classes ",
+        "userDefined": false
+      },
+      {
+        "text": "prépa",
+        "alias": "Niveau_etude",
+        "meta": "@Niveau_etude",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "070ebeb3-c455-4854-8586-feab26f4cf5c",
+    "data": [
+      {
+        "text": "prépa",
+        "alias": "Niveau_etude",
+        "meta": "@Niveau_etude",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

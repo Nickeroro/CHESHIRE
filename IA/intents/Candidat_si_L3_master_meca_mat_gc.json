@@ -1,0 +1,55 @@
+{
+  "id": "308e002e-780e-463c-8105-71323cd77316",
+  "parentId": "9aa870c9-9a1c-4fdb-b089-d855526ab239",
+  "rootParentId": "d6e46e22-e0de-4b16-ba31-af6411015a33",
+  "name": "Candidat_si_L3_master_meca_mat_gc",
+  "auto": true,
+  "contexts": [
+    "Candidat_si_L3_master-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Candidat.Candidat_si_L3.Candidat_si_L3_master.Candidat_si_L3_master_meca_mat_gc",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "29d7913a-d535-46e2-b1f1-5ae584f7aba1",
+          "required": false,
+          "dataType": "@Master",
+          "name": "Master",
+          "value": "$Master",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "fr",
+          "condition": "",
+          "speech": "Ce Master \"Ingénierie de conception\", parcours \"Mécanique, matériaux et génie civil\" est délivré par l’ENSTA Bretagne, l\u0027UBO (Université de Bretagne Occidentale), l\u0027ENIB, l’UBS (Université de Bretagne Sud) et l\u0027INSA Rennes.\n\nInscription : UBS\nContact ENSTA Bretagne : Sylvain Calloch\n\nEn savoir plus sur ce master : \n\nhttps://www.univ-ubs.fr/fr/formation-initiale-continue/formations-2017-2018/master-XB/sciences-technologies-sante-STS/master-mecanique-materiaux-genie-civil-program-5smx00-217-5smx01.html"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

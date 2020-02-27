@@ -1,0 +1,9 @@
+{
+  "id": "88efd382-07c0-49ed-a471-ebbb40049720",
+  "name": "Niveau_etude",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

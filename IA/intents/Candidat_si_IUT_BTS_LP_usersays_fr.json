@@ -1,0 +1,144 @@
+[
+  {
+    "id": "b6585e4b-2b79-4bf5-bde6-028ea8179f40",
+    "data": [
+      {
+        "text": "IUT",
+        "alias": "Niveau_etude",
+        "meta": "@Niveau_etude",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "151dc960-11cb-4b13-8e48-380d88ac10df",
+    "data": [
+      {
+        "text": "prépa ats",
+        "alias": "Niveau_etude",
+        "meta": "@Niveau_etude",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9953aaf8-afe1-4757-b022-6a661bb7b6e5",
+    "data": [
+      {
+        "text": "bac+2",
+        "alias": "Niveau_etude",
+        "meta": "@Niveau_etude",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6293f4aa-5f77-4e58-962d-fe7efa913599",
+    "data": [
+      {
+        "text": "LP",
+        "alias": "Niveau_etude",
+        "meta": "@Niveau_etude",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "c5dad4e9-c40e-42b8-98a5-af87b9be8742",
+    "data": [
+      {
+        "text": "BTS",
+        "alias": "Niveau_etude",
+        "meta": "@Niveau_etude",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4d6669a4-3efc-4268-98af-40ad97fd8cc8",
+    "data": [
+      {
+        "text": "je suis actuellement en ",
+        "userDefined": false
+      },
+      {
+        "text": "DUT",
+        "alias": "Niveau_etude",
+        "meta": "@Niveau_etude",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4524d891-1c56-438f-a3ec-c307bcbd3f3a",
+    "data": [
+      {
+        "text": "je suis en ",
+        "userDefined": false
+      },
+      {
+        "text": "licence pro",
+        "alias": "Niveau_etude",
+        "meta": "@Niveau_etude",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7cd1e75a-5b72-4aec-81d7-c5a00fb386a5",
+    "data": [
+      {
+        "text": "Je viens de ",
+        "userDefined": false
+      },
+      {
+        "text": "LP",
+        "alias": "Niveau_etude",
+        "meta": "@Niveau_etude",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3ff3bbdf-62c5-4d49-b1d6-6489336fb504",
+    "data": [
+      {
+        "text": "Je suis en ",
+        "userDefined": false
+      },
+      {
+        "text": "BTS",
+        "alias": "Niveau_etude",
+        "meta": "@Niveau_etude",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

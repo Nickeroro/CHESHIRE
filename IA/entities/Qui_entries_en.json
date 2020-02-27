@@ -1,0 +1,59 @@
+[
+  {
+    "value": "Names",
+    "synonyms": [
+      "Names",
+      "Nicolas",
+      "Tony Calvez",
+      "Marie DENES",
+      "Julie QUEAU",
+      "Miss Le Clainche",
+      "Mister DUDU",
+      "Ms Georgette"
+    ]
+  },
+  {
+    "value": "Function",
+    "synonyms": [
+      "Function",
+      "Teatcher",
+      "Computer science teatcher",
+      "senior lecturer",
+      "lecturer"
+    ]
+  },
+  {
+    "value": "Direction",
+    "synonyms": [
+      "Direction",
+      "Formation direction",
+      "Communication",
+      "Quality"
+    ]
+  },
+  {
+    "value": "Department",
+    "synonyms": [
+      "Department",
+      "service",
+      "mechanical engineering"
+    ]
+  },
+  {
+    "value": "Not defined",
+    "synonyms": [
+      "Not defined",
+      "Someone",
+      "Someone from the mechanical engineering service"
+    ]
+  },
+  {
+    "value": "candidate",
+    "synonyms": [
+      "candidate",
+      "Someone doing BTEC",
+      "Licence",
+      "Preparation school"
+    ]
+  }
+]

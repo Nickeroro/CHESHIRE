@@ -1,0 +1,55 @@
+{
+  "id": "77fef0ad-7dd4-41ca-b7ec-d27c0abf991d",
+  "parentId": "3ea5ff9d-683b-423e-8bf2-7536e3ab0859",
+  "rootParentId": "d6e46e22-e0de-4b16-ba31-af6411015a33",
+  "name": "Candidat_si_M2_master_geophys_mer",
+  "auto": true,
+  "contexts": [
+    "Candidat_si_M2_master-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Candidat.Candidat-custom.Candidat_si_M2_master.Candidat_si_M2_master_geophy_mer",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "9c22f776-f369-4334-b3fa-6f9d3ec0e6a1",
+          "required": false,
+          "dataType": "@Master",
+          "name": "Master",
+          "value": "$Master",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "fr",
+          "condition": "",
+          "speech": "Ce Master \"Physique Marine\", parcours \"Géophysique marine\" est délivré par l’ENSTA Bretagne et l’UBO (Université de Bretagne Occidentale).\n\nInscription : UBO\nContact ENSTA Bretagne :  Amandine Nicolle\n\nEn savoir plus sur ce master :\n\nhttp://formations.univ-brest.fr/fr/index/sciences-de-la-mer-et-du-littoral-SML/master-XB/master-marine-sciences-program-fr_rne_0290346u_prog20209/parcours-geophysique-marine-subprogram-2.html"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

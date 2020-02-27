@@ -1,0 +1,26 @@
+[
+  {
+    "id": "c70bc864-ff3f-4615-bfde-75924fd7598e",
+    "data": [
+      {
+        "text": "Y-a-t-il des logements à l\u0027ensta ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "61f67f49-7222-4f68-8c15-8e3585e47d2d",
+    "data": [
+      {
+        "text": "Hébergement",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

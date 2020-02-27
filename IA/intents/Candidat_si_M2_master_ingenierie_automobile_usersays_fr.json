@@ -1,0 +1,30 @@
+[
+  {
+    "id": "ccc71b14-baea-4272-a5ce-e2fea22b2d65",
+    "data": [
+      {
+        "text": "master auto",
+        "alias": "Master",
+        "meta": "@Master",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "931fff8c-ad50-48e8-8cd6-4a1389d29a86",
+    "data": [
+      {
+        "text": "master d\u0027ingénierie automobile",
+        "alias": "Master",
+        "meta": "@Master",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

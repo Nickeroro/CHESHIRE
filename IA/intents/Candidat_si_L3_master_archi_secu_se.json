@@ -1,0 +1,42 @@
+{
+  "id": "b3fba3c6-d2d8-4d0e-83d2-0a701efd47bd",
+  "parentId": "9aa870c9-9a1c-4fdb-b089-d855526ab239",
+  "rootParentId": "d6e46e22-e0de-4b16-ba31-af6411015a33",
+  "name": "Candidat_si_L3_master_archi_secu_se",
+  "auto": true,
+  "contexts": [
+    "Candidat_si_L3_master-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Candidat.Candidat_si_L3.Candidat_si_L3_master.Candidat_si_L3_master_archi_secu_se",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "fr",
+          "condition": "",
+          "speech": "Vous souhaitez des informations sur le master architecture et sécurité des systèmes électroniques et logiciels.\n\nCe master en deux ans, s\u0027adresse à des étudiants ayant validé une licence ou équivalent. Les enseignements couvrent l\u0027ensemble de la chaîne : depuis la modélisation de l\u0027architecture logicielle et matérielle, l\u0027exploitation des informations fournies par des capteurs, jusqu\u0027à la mise en place des télécommunications et le développement de leurs logiciels.\n\nVous trouverez le programme  : \n\nhttps://www.ensta-bretagne.fr/fr/programme-du-master-architecture-et-securite-des-systemes-electroniques-et-logiciels\n\nL\u0027ENSTA Bretagne est un des acteurs du pôle d\u0027excellence Cyber. Implanté en région Bretagne, le pôle d’excellence CYBER (Pec) vise à développer la filière cyber (cyber-sécurité et cyberdéfense), au niveau national et à la faire rayonner au niveau international. Elle fédère les efforts du tissu industriel et académique très ancré dans le territoire breton. ENSTA Bretagne contribue, en tant que grande école du Ministère des armées, aux \"clubs\" formations et recherche.\n\nCe Master est accrédité par le Ministère de l\u0027Enseignement Supérieur et de la Recherche."
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

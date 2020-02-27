@@ -1,0 +1,55 @@
+{
+  "id": "5f9efa2f-1faa-48cc-a4dc-d98d8a18d95d",
+  "parentId": "d6e46e22-e0de-4b16-ba31-af6411015a33",
+  "rootParentId": "d6e46e22-e0de-4b16-ba31-af6411015a33",
+  "name": "Candidat_si_IUT_BTS_LP",
+  "auto": true,
+  "contexts": [
+    "Candidat-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Candidat.Candidat_si_IUT_BTS_LP",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "2040ff59-6cf3-4407-abc8-320ed19a2646",
+          "required": false,
+          "dataType": "@Niveau_etude",
+          "name": "Niveau_etude",
+          "value": "$Niveau_etude",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": true
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "fr",
+          "condition": "",
+          "speech": "Vous êtes en #Candidat-followup.Niveau_etude. Pour intégrer l\u0027ENSTA, une seule voie possible : \n\nL\u0027apprentissage.\n\nL\u0027admission s\u0027effectue sur titre, dossier et entretien. Vous trouverez : \n\n- la brochure explicative : \n\nhttps://www.ensta-bretagne.fr/sites/default/files/2019-11/ENSTA-FIPA2019-210x280-WEB.pdf\n\n- le programme en détail de la formation par alternance : \n\nhttps://www.ensta-bretagne.fr/sites/default/files/2020-01/ENSTA-FIPA2019-Encart4p-oct2019.pdf"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

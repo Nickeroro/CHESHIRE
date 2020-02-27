@@ -1,0 +1,150 @@
+[
+  {
+    "id": "f8cd179c-53ef-4dbb-b2eb-fb896ae1f1b1",
+    "data": [
+      {
+        "text": "I come from ",
+        "userDefined": false
+      },
+      {
+        "text": "Blegium",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ca1868b7-d605-465c-aadb-0f606a9ef0f4",
+    "data": [
+      {
+        "text": "Im coming from ",
+        "userDefined": false
+      },
+      {
+        "text": "Los angeles",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c8dab52a-bc56-4616-8049-0bb1fc8c83fa",
+    "data": [
+      {
+        "text": "In ",
+        "userDefined": false
+      },
+      {
+        "text": "france",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "42915564-761d-48d0-999d-41e8a345c692",
+    "data": [
+      {
+        "text": "I\u0027m coming from ",
+        "userDefined": false
+      },
+      {
+        "text": "France",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "eb24da27-393d-4716-a5c1-a0b29d1744c7",
+    "data": [
+      {
+        "text": "I live in ",
+        "userDefined": false
+      },
+      {
+        "text": "Monaco",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "28c6533f-2857-4400-8b26-abc2b04d48a5",
+    "data": [
+      {
+        "text": "I live in ",
+        "userDefined": false
+      },
+      {
+        "text": "France",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "486bf099-4d0e-4f62-9db5-cc9f1ee8e20f",
+    "data": [
+      {
+        "text": "I live in ",
+        "userDefined": false
+      },
+      {
+        "text": "Brest",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b8ddb89d-22bb-41dc-906e-25f5f6df38b7",
+    "data": [
+      {
+        "text": "I live in ",
+        "userDefined": false
+      },
+      {
+        "text": "San Francisco",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

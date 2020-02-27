@@ -1,0 +1,27 @@
+[
+  {
+    "value": "ODD",
+    "synonyms": [
+      "ODD",
+      "Open door days",
+      "Open door"
+    ]
+  },
+  {
+    "value": "Job dating",
+    "synonyms": [
+      "Job dating",
+      "Jobdating",
+      "Interview",
+      "Job interview",
+      "Job talk",
+      "job chat"
+    ]
+  },
+  {
+    "value": "Conference",
+    "synonyms": [
+      "Conference"
+    ]
+  }
+]

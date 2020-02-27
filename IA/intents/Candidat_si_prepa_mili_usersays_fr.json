@@ -1,0 +1,62 @@
+[
+  {
+    "id": "31e5062b-34c5-4795-8662-6c180f7d77e7",
+    "data": [
+      {
+        "text": "ieta",
+        "alias": "Statut_ENSTA",
+        "meta": "@Statut_ENSTA",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e4bfb280-cef1-41d1-851a-fa7dd2e4e360",
+    "data": [
+      {
+        "text": "militaire",
+        "alias": "Statut_ENSTA",
+        "meta": "@Statut_ENSTA",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "091c6a6d-2e85-45ec-9e5f-cf088d0aa477",
+    "data": [
+      {
+        "text": "mili",
+        "alias": "Statut_ENSTA",
+        "meta": "@Statut_ENSTA",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "687afadc-5575-4158-aec9-9a9e2379e212",
+    "data": [
+      {
+        "text": "cycle ",
+        "userDefined": false
+      },
+      {
+        "text": "ingénieur sous statut militaire",
+        "alias": "Statut_ENSTA",
+        "meta": "@Statut_ENSTA",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

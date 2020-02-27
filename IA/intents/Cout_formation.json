@@ -1,0 +1,50 @@
+{
+  "id": "3d466feb-b3b9-42a1-9546-27e80a38f2f5",
+  "name": "Cout_formation",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "Cout_formation-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "bd60138d-d00d-4adb-b43a-f24ebf8bd24e",
+          "required": false,
+          "dataType": "@Niveau_etude",
+          "name": "Niveau_etude",
+          "value": "$Niveau_etude",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "fr",
+          "condition": "",
+          "speech": "Souhaitez-vous des informations pour :\n\n- la formation par ingénieur \n\n- les master\n\n- les mastères"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,9 @@
+{
+  "id": "9f651980-7baa-414c-9214-2f4a0f164ef2",
+  "name": "Integrer_ENSTA",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

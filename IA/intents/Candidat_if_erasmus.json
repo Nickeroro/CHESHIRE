@@ -1,0 +1,55 @@
+{
+  "id": "d42ff395-65e2-42e1-835a-7bd458c367a8",
+  "parentId": "d6e46e22-e0de-4b16-ba31-af6411015a33",
+  "rootParentId": "d6e46e22-e0de-4b16-ba31-af6411015a33",
+  "name": "Candidat_if_erasmus",
+  "auto": true,
+  "contexts": [
+    "Candidat-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Candidat.Candidat_if_erasmus",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "eaeb9c4c-9a0c-496f-aab2-6f6d3a70dd3f",
+          "required": false,
+          "dataType": "@Niveau_etude",
+          "name": "Niveau_etude",
+          "value": "$Niveau_etude",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "You are actually doing/attending #Candidat-followup.Niveau_etude. \n\nPrograms available: The \"diplôme d\u0027ingénieur\" (i.e. Msc in Eng.) (1 or 2 semesters)\n\n    - Admission to the 2nd year of the ENSTA Bretagne engineering program (equivalent to the 4th year of a Bachelor\u0027s or 1st year of a Master\u0027s degree)\n    - Admission to the 3rd year of the ENSTA Bretagne engineering program (equivalent to the 2nd year of a Master\u0027s degree)"
+        },
+        {
+          "type": 0,
+          "lang": "fr",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

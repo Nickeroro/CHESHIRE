@@ -1,0 +1,163 @@
+{
+  "id": "4a54df79-1a32-43bf-acd5-c08a319ded06",
+  "name": "Test_button",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "fr",
+          "condition": "",
+          "textToSpeech": "[link](https://dialogflow.cloud.google.com/#/agent/b6b26f10-dcba-49dc-918e-cbfb51bdcdec/editIntent/4a54df79-1a32-43bf-acd5-c08a319ded06/)",
+          "ssml": "",
+          "displayText": ""
+        },
+        {
+          "type": "custom_payload",
+          "platform": "google",
+          "lang": "fr",
+          "condition": "",
+          "payload": {
+            "fulfillmentText": "This is a text response",
+            "fulfillmentMessages": [
+              {
+                "card": {
+                  "title": "card title",
+                  "subtitle": "card text",
+                  "imageUri": "https://assistant.google.com/static/images/molecule/Molecule-Formation-stop.png",
+                  "buttons": [
+                    {
+                      "text": "button text",
+                      "postback": "https://assistant.google.com/"
+                    }
+                  ]
+                }
+              }
+            ],
+            "source": "example.com",
+            "payload": {
+              "google": {
+                "expectUserResponse": true,
+                "richResponse": {
+                  "items": [
+                    {
+                      "simpleResponse": {
+                        "textToSpeech": "this is a simple response"
+                      }
+                    }
+                  ]
+                }
+              },
+              "facebook": {
+                "text": "Hello, Facebook!"
+              },
+              "slack": {
+                "text": "This is a text response for Slack."
+              }
+            },
+            "outputContexts": [
+              {
+                "name": "projects/${PROJECT_ID}/agent/sessions/${SESSION_ID}/contexts/context name",
+                "lifespanCount": 5.0,
+                "parameters": {
+                  "param": "param value"
+                }
+              }
+            ],
+            "followupEventInput": {
+              "name": "event name",
+              "languageCode": "en-US",
+              "parameters": {
+                "param": "param value"
+              }
+            }
+          }
+        },
+        {
+          "type": 4,
+          "lang": "fr",
+          "condition": "",
+          "payload": {
+            "fulfillmentText": "This is a text response",
+            "fulfillmentMessages": [
+              {
+                "card": {
+                  "title": "card title",
+                  "subtitle": "card text",
+                  "imageUri": "https://assistant.google.com/static/images/molecule/Molecule-Formation-stop.png",
+                  "buttons": [
+                    {
+                      "text": "button text",
+                      "postback": "https://assistant.google.com/"
+                    }
+                  ]
+                }
+              }
+            ],
+            "source": "example.com",
+            "payload": {
+              "google": {
+                "expectUserResponse": true,
+                "richResponse": {
+                  "items": [
+                    {
+                      "simpleResponse": {
+                        "textToSpeech": "this is a simple response"
+                      }
+                    }
+                  ]
+                }
+              },
+              "facebook": {
+                "text": "Hello, Facebook!"
+              },
+              "slack": {
+                "text": "This is a text response for Slack."
+              }
+            },
+            "outputContexts": [
+              {
+                "name": "projects/${PROJECT_ID}/agent/sessions/${SESSION_ID}/contexts/context name",
+                "lifespanCount": 5.0,
+                "parameters": {
+                  "param": "param value"
+                }
+              }
+            ],
+            "followupEventInput": {
+              "name": "event name",
+              "languageCode": "en-US",
+              "parameters": {
+                "param": "param value"
+              }
+            }
+          }
+        },
+        {
+          "type": 0,
+          "lang": "fr",
+          "condition": "",
+          "speech": "gvbgvgv"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": true,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

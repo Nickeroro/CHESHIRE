@@ -1,0 +1,55 @@
+{
+  "id": "c38f4f95-b1c1-450b-802d-ad4521a7361f",
+  "parentId": "3ea5ff9d-683b-423e-8bf2-7536e3ab0859",
+  "rootParentId": "d6e46e22-e0de-4b16-ba31-af6411015a33",
+  "name": "Candidat_si_M2_master_genie_maritime",
+  "auto": true,
+  "contexts": [
+    "Candidat_si_M2_master-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Candidat.Candidat-custom.Candidat_si_M2_master.Candidat_si_M2_master_genie_maritime",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "b07e2542-279d-4d36-a7c7-401245fabec7",
+          "required": false,
+          "dataType": "@Master",
+          "name": "Master",
+          "value": "$Master",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "fr",
+          "condition": "",
+          "speech": "Vous êtes intéressé(e) par le master génie maritime. \n\nLe programme se trouve ici : https://www.ensta-bretagne.fr/fr/programme-du-master-genie-maritime\n\nIl vous est possible de faire un double diplôme avec l\u0027université d\u0027Adélaïde en Australie appelé navire de surface et sous marins. \n\nhttps://www.ensta-bretagne.fr/fr/master-en-genie-maritime-navires-de-surface-et-sous-marins-double-diplome"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

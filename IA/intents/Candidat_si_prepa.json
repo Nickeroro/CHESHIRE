@@ -1,0 +1,85 @@
+{
+  "id": "68b983e2-c7da-4185-9ef6-74f82075a195",
+  "parentId": "d6e46e22-e0de-4b16-ba31-af6411015a33",
+  "rootParentId": "d6e46e22-e0de-4b16-ba31-af6411015a33",
+  "name": "Candidat_si_prepa",
+  "auto": true,
+  "contexts": [
+    "Candidat-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Candidat.Candidat_si_prepa",
+      "affectedContexts": [
+        {
+          "name": "Candidat_si_prepa-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [
+        {
+          "id": "d33fc13b-f5f3-4fef-9d44-92d5fa098ed4",
+          "required": false,
+          "dataType": "@Niveau_etude",
+          "name": "Niveau_etude",
+          "value": "$Niveau_etude",
+          "prompts": [
+            {
+              "lang": "fr",
+              "value": "D"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "ae12c327-8d33-410a-948c-304052885d68",
+          "required": true,
+          "dataType": "@Statut_ENSTA",
+          "name": "Statut_ENSTA",
+          "value": "$Statut_ENSTA",
+          "prompts": [
+            {
+              "lang": "fr",
+              "value": "Souhaitez des informations sur : \n\n- cycle ingénieur sous statut étudiant (FISE)\n- cycle ingénieur sous statut militaire (IETA)\n- formation par alternance (FIPA)"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "fr",
+          "condition": "",
+          "speech": "Vous souhaitez des informations sur $Statut_ENSTA."
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

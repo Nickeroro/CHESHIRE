@@ -1,0 +1,55 @@
+{
+  "id": "dc36ae2e-c7b7-491b-83fb-4f62db447d0f",
+  "parentId": "3d466feb-b3b9-42a1-9546-27e80a38f2f5",
+  "rootParentId": "3d466feb-b3b9-42a1-9546-27e80a38f2f5",
+  "name": "Cout_formation_mastere",
+  "auto": true,
+  "contexts": [
+    "Cout_formation-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Cout_formation.Cout_formation-custom-2",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "1195e5c1-e1f6-4ee1-8176-fc7c786d56e3",
+          "required": false,
+          "dataType": "@Niveau_etude",
+          "name": "Niveau_etude",
+          "value": "$Niveau_etude",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "fr",
+          "condition": "",
+          "speech": "Les frais de dossier s\u0027élève à 30 € et les frais de scolarité pour les étudiants s\u0027élèvent à 8000 €. \nPour les organismes, les frais de scolarité s\u0027élèvent à 12000 €."
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

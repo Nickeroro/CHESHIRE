@@ -1,0 +1,54 @@
+[
+  {
+    "value": "Master",
+    "synonyms": [
+      "Master",
+      "Master degree",
+      "master in hydrography",
+      "master in marine engineering",
+      "International master in automotive engineering",
+      "master in mobile robotics",
+      "Master in electronic systems and software design and security",
+      "master in marine engineering surface ships and submarines",
+      "MSC"
+    ]
+  },
+  {
+    "value": "MSC in engineering",
+    "synonyms": [
+      "MSC in engineering",
+      "Hydrography and oceanography",
+      "Observation systems and artificial intelligence",
+      "Security and digital systems",
+      "autonomous robotics",
+      "naval and offshore architecture",
+      "Vehicule architecture",
+      "Pyrotechnic systems",
+      "Engineering and business science"
+    ]
+  },
+  {
+    "value": "ES",
+    "synonyms": [
+      "ES",
+      "Embbed systems"
+    ]
+  },
+  {
+    "value": "IETA",
+    "synonyms": [
+      "IETA",
+      "Military Engineering Program"
+    ]
+  },
+  {
+    "value": "Advanced Master",
+    "synonyms": [
+      "Advanced Master",
+      "Advanced master in marine engineering naval and offshore architecture",
+      "Advanced master marine renewable enegies expert",
+      "Advanced master in pyrotechnics and propulsion",
+      "Advanced master in maritime project management"
+    ]
+  }
+]

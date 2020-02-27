@@ -1,0 +1,55 @@
+{
+  "id": "bb5f6fe0-796d-4077-9f48-1b76368b24be",
+  "parentId": "d7db4eec-d722-4d90-96b3-ea2dd6e4db50",
+  "rootParentId": "d6e46e22-e0de-4b16-ba31-af6411015a33",
+  "name": "Candidat_si_M2_mastere_spe_sl_multi_sensor",
+  "auto": true,
+  "contexts": [
+    "Candidat_si_M2_mastere_spe-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Candidat.Candidat-custom.Candidat_si_M2_mastere_spe.Candidat_si_M2_mastere_spesl_multi_sensor",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "9f9f78da-db76-4129-9303-58e46e3c5ae5",
+          "required": false,
+          "dataType": "@Master",
+          "name": "Master",
+          "value": "$Master",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "fr",
+          "condition": "",
+          "speech": "Ce mastère spécialisé® proposé par le groupe ENSTA, forme des ingénieurs à la conception, la mise en œuvre et la maintenance de dispositifs technologiques dans les domaines du radar, de la guerre électronique radar/communication, de la guerre optronique (contre mesure, leurre), des centrales inertielles, de la géolocalisation, de la fonction navigation complexe, de la chaîne fonctionnelle de guidage et de l\u0027utilisation des senseurs, de la fusion d’information et des choix des senseurs. \n\nL\u0027admission s\u0027effectue sous dossier et entretien. \n\nLe programme  est :\n\n- Ingénierie des systèmes liés aux domaines\n- Conception et exploitation de dispositif et systèmes\n- Gestion de projet"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

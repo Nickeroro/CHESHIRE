@@ -1,0 +1,76 @@
+[
+  {
+    "id": "3d163b61-2903-42dc-8e33-f927a45e3b8b",
+    "data": [
+      {
+        "text": "cycle ingénieur apprenti",
+        "alias": "Statut_ENSTA",
+        "meta": "@Statut_ENSTA",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ee9be86d-164a-49db-9198-c21ca7df7ce5",
+    "data": [
+      {
+        "text": "cycle par ",
+        "userDefined": false
+      },
+      {
+        "text": "apprentissage",
+        "alias": "Statut_ENSTA",
+        "meta": "@Statut_ENSTA",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7f2cae1b-ab28-4a5c-b387-17bec067d7dc",
+    "data": [
+      {
+        "text": "apprentissage",
+        "alias": "Statut_ENSTA",
+        "meta": "@Statut_ENSTA",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6be10ba4-b8ac-48d6-a6ab-cd44ad373d9d",
+    "data": [
+      {
+        "text": "apprentie",
+        "alias": "Statut_ENSTA",
+        "meta": "@Statut_ENSTA",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3626b8d1-45e2-463e-ad2a-5ee94f589a78",
+    "data": [
+      {
+        "text": "apprenti",
+        "alias": "Statut_ENSTA",
+        "meta": "@Statut_ENSTA",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,42 @@
+{
+  "id": "d6697a72-d294-466e-b49a-ab824f9dd017",
+  "parentId": "38cfb0ac-ce57-4efb-8307-a394eab9645e",
+  "rootParentId": "d6e46e22-e0de-4b16-ba31-af6411015a33",
+  "name": "Candidat_si_M1_master_hydro",
+  "auto": true,
+  "contexts": [
+    "Candidat_si_M1_master-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Candidat.Candidat_si_M1.Candidat_si_M1_master.Candidat_si_M1_master_hydro",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "fr",
+          "condition": "",
+          "speech": "Vous êtes intéressé par le master d\u0027ingénierie en hydrographie. Vous trouverez la plaquette : \n\nhttps://www.ensta-bretagne.fr/sites/default/files/2018-10/master-of-science-msc_hydrography.pdf"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

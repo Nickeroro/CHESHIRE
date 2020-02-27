@@ -1,0 +1,71 @@
+[
+  {
+    "id": "eef9f837-163e-45c9-8707-a63435bff034",
+    "data": [
+      {
+        "text": "BSC",
+        "alias": "Niveau_etude",
+        "meta": "@Niveau_etude",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "equivalent",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d24b10f2-cd91-4c20-8704-119f7592fbba",
+    "data": [
+      {
+        "text": "I\u0027m actually doing a ",
+        "userDefined": false
+      },
+      {
+        "text": "BSC",
+        "alias": "Niveau_etude",
+        "meta": "@Niveau_etude",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "62b2089a-fef4-4871-8066-cdd8a8c5c187",
+    "data": [
+      {
+        "text": "Bachelor of science",
+        "alias": "Niveau_etude",
+        "meta": "@Niveau_etude",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c4ef8e84-51ff-4fd5-a444-71ccb3de36ea",
+    "data": [
+      {
+        "text": "BSC",
+        "alias": "Niveau_etude",
+        "meta": "@Niveau_etude",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

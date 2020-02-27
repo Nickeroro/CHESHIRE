@@ -1,0 +1,30 @@
+[
+  {
+    "value": "sport association",
+    "synonyms": [
+      "sport association",
+      "SA",
+      "Ultimate",
+      "Football",
+      "Handball",
+      "Tenis",
+      "Ping pong"
+    ]
+  },
+  {
+    "value": "Student\u0027s office",
+    "synonyms": [
+      "Student\u0027s office",
+      "BDE"
+    ]
+  },
+  {
+    "value": "Clubs",
+    "synonyms": [
+      "Clubs",
+      "Game club",
+      "Danse club",
+      "Drama club"
+    ]
+  }
+]

@@ -1,0 +1,55 @@
+{
+  "id": "b088187f-be68-43c6-a398-6d7d10ba8257",
+  "parentId": "d6e46e22-e0de-4b16-ba31-af6411015a33",
+  "rootParentId": "d6e46e22-e0de-4b16-ba31-af6411015a33",
+  "name": "Candidat_if_MSC",
+  "auto": true,
+  "contexts": [
+    "Candidat-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Candidat.Candidat-custom",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "befd6573-6698-4ee1-b6ed-c17887a69183",
+          "required": false,
+          "dataType": "@Niveau_etude",
+          "name": "Niveau_etude",
+          "value": "$Niveau_etude",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "If you are a #Candidat-followup.Niveau_etude, you can apply to our Advanced Master\u0027s programs to earn a complementary degree, or join our research teams as a PhD.\n\n- Advanced Master: a 1-year program for MSc graduates (or BSc graduates with several years of professional experience)\n        - Expert in Marine Renewable Energies\n        - Marine Engineering/Naval Architecture and Offshore Engineering\n        - Maritime Projects Management\n        - Pyrotechnics and Propulsion\n- PhD: a 3-year program for MSc degree holders"
+        },
+        {
+          "type": 0,
+          "lang": "fr",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

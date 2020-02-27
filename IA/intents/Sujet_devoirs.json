@@ -1,0 +1,50 @@
+{
+  "id": "9032b983-2e40-4143-aaef-bb2e49ec932c",
+  "name": "Sujet_devoirs",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "bbcab0b1-c1ec-4273-b614-ddd21e783982",
+          "required": false,
+          "dataType": "@sys.date",
+          "name": "date",
+          "value": "$date",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "fr",
+          "condition": "",
+          "speech": "Peut-être trouveras tu ton bonheur en te connectant à ton compte office puis en allant dans sharepoint puis en recherchant Yéticours ou : \n\nhttps://enstabretagne.sharepoint.com/yeticours/SitePages/Accueil.aspx"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Perhaps you will find your happiness by logging into your office account then by going to sharepoint then by searching for Yéticours or at: \n\nhttps://enstabretagne.sharepoint.com/yeticours/SitePages/Accueil.aspx"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

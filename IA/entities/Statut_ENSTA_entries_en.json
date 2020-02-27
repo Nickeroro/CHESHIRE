@@ -1,0 +1,36 @@
+[
+  {
+    "value": "Military engineering program",
+    "synonyms": [
+      "Military engineering program",
+      "IETA",
+      "Military engineering formation",
+      "Military cycle",
+      "mili"
+    ]
+  },
+  {
+    "value": "Ingineering cycle",
+    "synonyms": [
+      "Ingineering cycle",
+      "generalist engineer"
+    ]
+  },
+  {
+    "value": "Master",
+    "synonyms": [
+      "Master",
+      "Hydrography master",
+      "Master in marine engineering",
+      "Master in mobile robotics"
+    ]
+  },
+  {
+    "value": "Advanced Master",
+    "synonyms": [
+      "Advanced Master",
+      "Advanced master in marine engineering",
+      "Advanced master marine renewable energies expert"
+    ]
+  }
+]

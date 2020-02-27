@@ -1,0 +1,38 @@
+[
+  {
+    "id": "e9d7a43d-0931-4b64-8ca3-785fe6b9d7cc",
+    "data": [
+      {
+        "text": "master",
+        "alias": "Niveau_etude",
+        "meta": "@Niveau_etude",
+        "userDefined": false
+      },
+      {
+        "text": " Architecture et sécurité des systèmes électroniques et logiciels",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c61a59ca-6c04-4d5f-9344-3d65b5f51907",
+    "data": [
+      {
+        "text": "master",
+        "alias": "Niveau_etude",
+        "meta": "@Niveau_etude",
+        "userDefined": false
+      },
+      {
+        "text": " architecture sécurité",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

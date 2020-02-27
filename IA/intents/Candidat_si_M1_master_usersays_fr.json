@@ -1,0 +1,16 @@
+[
+  {
+    "id": "782cc27f-fcde-4e41-a085-6aaa43d552e6",
+    "data": [
+      {
+        "text": "master",
+        "alias": "Statut_ENSTA",
+        "meta": "@Statut_ENSTA",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

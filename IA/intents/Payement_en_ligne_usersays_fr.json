@@ -1,0 +1,26 @@
+[
+  {
+    "id": "a7004cd5-07ea-4e23-aa40-c2696d1edc7c",
+    "data": [
+      {
+        "text": "payer en ligne",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "027be8b3-8af0-415a-9bf2-f940ec4e4dc7",
+    "data": [
+      {
+        "text": "payement en ligne",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "value": "BTEC Higher National Diploma",
+    "synonyms": [
+      "BTEC Higher National Diploma",
+      "BTEC",
+      "Diploma Advanced Technician"
+    ]
+  },
+  {
+    "value": "MS",
+    "synonyms": [
+      "MS",
+      "Master of science",
+      "MSC Graduate",
+      "MSC"
+    ]
+  },
+  {
+    "value": "European partner university",
+    "synonyms": [
+      "European partner university",
+      "erasmus",
+      "erasmus program"
+    ]
+  },
+  {
+    "value": "BSC",
+    "synonyms": [
+      "BSC",
+      "Bachelor of science",
+      "BS"
+    ]
+  }
+]

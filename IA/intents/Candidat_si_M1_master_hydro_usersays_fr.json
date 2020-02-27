@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1df64aee-3b88-486d-930a-2112efaf7516",
+    "data": [
+      {
+        "text": "hydrographie",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1d963e9e-4fc7-4e5a-973e-d41c12cd0cfd",
+    "data": [
+      {
+        "text": "hydro",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

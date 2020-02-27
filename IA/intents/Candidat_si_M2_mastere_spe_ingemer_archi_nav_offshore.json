@@ -1,0 +1,55 @@
+{
+  "id": "017de0ba-3ab4-441e-94d6-77c249b99930",
+  "parentId": "d7db4eec-d722-4d90-96b3-ea2dd6e4db50",
+  "rootParentId": "d6e46e22-e0de-4b16-ba31-af6411015a33",
+  "name": "Candidat_si_M2_mastere_spe_ingemer_archi_nav_offshore",
+  "auto": true,
+  "contexts": [
+    "Candidat_si_M2_mastere_spe-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Candidat.Candidat-custom.Candidat_si_M2_mastere_spe.Candidat_si_M2_mastere_spe_ingemer_archi_nav_offshore",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "69f7099b-bc06-4c49-8c66-d8eaff1b7f0a",
+          "required": false,
+          "dataType": "@Master",
+          "name": "Master",
+          "value": "$Master",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "fr",
+          "condition": "",
+          "speech": "Vous souhaitez intégrer le mastère spécialisé Ingénierie Marine / Architecture Navale et Offshore.  L\u0027admission s\u0027effectue sur dossier et entretien. \n\nVous trouverez la brochure : \n\nhttps://www.ensta-bretagne.fr/sites/default/files/2018-12/mastere-specialise-imano-architecture_navale-offshore-ship_design-ensta_bretagne-ensa_plv-web.pdf\n\nCette formation vous offre la possibilité de choisir entre  2 profils : \n\n- Ingénierie Marine et Offshore (enseigné à l\u0027ENSTA Bretagne et ouvrant sur 3 spécialités)\n\n- Ship Design (Double diplôme enseigné à l\u0027ENSTA Bretagne jusqu\u0027en décembre et à l\u0027ENSA Paris La Villette de janvier à mars)."
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

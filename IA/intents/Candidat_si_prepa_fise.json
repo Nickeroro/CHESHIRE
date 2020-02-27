@@ -1,0 +1,55 @@
+{
+  "id": "ff9bdb3c-19ac-4eb6-8bcb-ba0d3908f2ef",
+  "parentId": "68b983e2-c7da-4185-9ef6-74f82075a195",
+  "rootParentId": "d6e46e22-e0de-4b16-ba31-af6411015a33",
+  "name": "Candidat_si_prepa_fise",
+  "auto": true,
+  "contexts": [
+    "Candidat_si_prepa-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Candidat.Candidat_si_prepa.Candidat_si_prepa_fise",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "ec882b4a-42d5-44b8-9272-2e71ab20221a",
+          "required": false,
+          "dataType": "@Statut_ENSTA",
+          "name": "Statut_ENSTA",
+          "value": "$Statut_ENSTA",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "fr",
+          "condition": "",
+          "speech": "Pour la formation généraliste, l\u0027admission s\u0027effectue par l\u0027admission sur concour commun Mines Telecom  (inscription pour les concours : www.scei-concours.fr).\n\nVous trouverez des renseignements sur la formation :\n\nhttps://www.ensta-bretagne.fr/sites/default/files/2019-12/Brochure-FISE-WEBoct2019_0.pdf\n\nLe programme est détaillé ici : \n\nhttps://www.ensta-bretagne.fr/sites/default/files/2019-10/Encart-Programme-formation-FISE-sept2019.pdf"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

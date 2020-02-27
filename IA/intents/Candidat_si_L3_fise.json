@@ -1,0 +1,55 @@
+{
+  "id": "8a3cddbd-4e83-439a-8f7c-bc5930a46fe7",
+  "parentId": "2b475916-b26c-48cd-9887-4c4b3f5cbd4b",
+  "rootParentId": "d6e46e22-e0de-4b16-ba31-af6411015a33",
+  "name": "Candidat_si_L3_fise",
+  "auto": true,
+  "contexts": [
+    "Candidat_si_L3-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Candidat.Candidat_si_L3.Candidat_si_L3_fise",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "84dbeefe-f7b9-4145-8135-dcfecc4df0dd",
+          "required": false,
+          "dataType": "@Statut_ENSTA",
+          "name": "Statut_ENSTA",
+          "value": "$Statut_ENSTA",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "fr",
+          "condition": "",
+          "speech": "Pour la formation généraliste, l\u0027admission s\u0027effectue sur dossier et entretien.\nVous trouverez des renseignements sur la formation :\n\nhttps://www.ensta-bretagne.fr/sites/default/files/2019-12/Brochure-FISE-WEBoct2019_0.pdf\n\nLe programme est détaillé ici : \n\nhttps://www.ensta-bretagne.fr/sites/default/files/2019-10/Encart-Programme-formation-FISE-sept2019.pdf"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

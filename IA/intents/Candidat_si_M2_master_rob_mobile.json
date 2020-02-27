@@ -1,0 +1,55 @@
+{
+  "id": "9918752e-eee6-43b9-a26a-4f30f48e6665",
+  "parentId": "3ea5ff9d-683b-423e-8bf2-7536e3ab0859",
+  "rootParentId": "d6e46e22-e0de-4b16-ba31-af6411015a33",
+  "name": "Candidat_si_M2_master_rob_mobile",
+  "auto": true,
+  "contexts": [
+    "Candidat_si_M2_master-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Candidat.Candidat-custom.Candidat_si_M2_master.Candidat_si_M2_master_rob_mobile",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "8b3761b2-cd55-47dd-8656-d15c8c2d1c60",
+          "required": false,
+          "dataType": "@Master",
+          "name": "Master",
+          "value": "$Master",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "fr",
+          "condition": "",
+          "speech": "Vous souhaitez intégrer le master robotique mobile. Le programme se trouve : \n\nhttps://www.ensta-bretagne.fr/fr/programme-du-master-robotique-mobile\n\nCette formation en 2 ans porte sur la conception et la réalisation de systèmes robotiques mobiles tant sur les aspects matériels que logiciels. Une spécialisation dédiée aux véhicules autonomes marins et sous-marins (voiliers, bateaux, sous-marins) complète la formation."
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

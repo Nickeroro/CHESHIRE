@@ -1,0 +1,55 @@
+{
+  "id": "70212c3b-96e9-4f98-8814-75b35401feec",
+  "parentId": "68b983e2-c7da-4185-9ef6-74f82075a195",
+  "rootParentId": "d6e46e22-e0de-4b16-ba31-af6411015a33",
+  "name": "Candidat_si_prepa_mili",
+  "auto": true,
+  "contexts": [
+    "Candidat_si_prepa-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Candidat.Candidat_si_prepa.Candidat_si_prepa_mili",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "4389d3b9-41c1-48ed-9249-59f481dbc0bf",
+          "required": false,
+          "dataType": "@Statut_ENSTA",
+          "name": "Statut_ENSTA",
+          "value": "$Statut_ENSTA",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "fr",
+          "condition": "",
+          "speech": "Pour intégrer la formation ingénieur généraliste sous statut militaire (IETA), il faut être admis au concours commun Mines Télécom. (Inscriptions sur : www.scei-concours.fr)\n\nPar ailleurs, il vous faut satisfaire plusieurs conditions : \n\n- être de nationalité française\n- jouir de ses droits civiques\n- être âgé de 22 ans au plus au 1er janvier de l\u0027année du concours\n- satisfaire à la visite médicale d\u0027aptitude initiale (visite médicale uniquement, pas d\u0027épreuve sportive)\n\nPour plus d\u0027informations sur le programme de cours : \n\nhttps://www.ensta-bretagne.fr/sites/default/files/2019-10/Encart-Programme-formation-FISE-sept2019.pdf\n\nLa plaquette de la formation IETA :\n\nhttps://www.ensta-bretagne.fr/sites/default/files/2019-05/3volets_ieta_2019_web_page.pdf"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

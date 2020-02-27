@@ -1,0 +1,55 @@
+{
+  "id": "4e652509-4d29-458b-a32d-b5c3101961f2",
+  "parentId": "d7db4eec-d722-4d90-96b3-ea2dd6e4db50",
+  "rootParentId": "d6e46e22-e0de-4b16-ba31-af6411015a33",
+  "name": "Candidat_si_M2_mastere_spe_pyro_prop",
+  "auto": true,
+  "contexts": [
+    "Candidat_si_M2_mastere_spe-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Candidat.Candidat-custom.Candidat_si_M2_mastere_spe.Candidat_si_M2_mastere_spe_pyro_prop",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "bb09cd8f-bcaa-4f3f-a3ff-df10ee0e00af",
+          "required": false,
+          "dataType": "@Master",
+          "name": "Master",
+          "value": "$Master",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "fr",
+          "condition": "",
+          "speech": "Cette formation (Mastère Spécialisé®) vise la connaissance des phénomènes de combustion, de déflagration et de détonation. Ces phénomènes physiques se caractérisent par l’obtention de températures élevées et de fortes pressions dans des temps très courts. L’acquisition d’une expertise de haut niveau permet de maîtriser l’intégration de ces phénomènes dans un système mécanique complexe.\n\nL\u0027admission est possible sur dossier et entretien après un bac +4.\n\nVous trouvez la brochure ici : \n\nhttps://www.ensta-bretagne.fr/sites/default/files/2019-02/MS_PYRO_fevrier2019_web-compresse.pdf\n\nEt le programme :\n\nhttps://www.ensta-bretagne.fr/sites/default/files/2019-02/MS_PYRO_fevrier2019_web-compresse.pdf"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

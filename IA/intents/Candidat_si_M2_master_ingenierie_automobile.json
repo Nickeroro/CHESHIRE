@@ -1,0 +1,55 @@
+{
+  "id": "9dd9f9e5-eb41-42cb-ab18-2e583e5d9d8f",
+  "parentId": "3ea5ff9d-683b-423e-8bf2-7536e3ab0859",
+  "rootParentId": "d6e46e22-e0de-4b16-ba31-af6411015a33",
+  "name": "Candidat_si_M2_master_ingenierie_automobile",
+  "auto": true,
+  "contexts": [
+    "Candidat_si_M2_master-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Candidat.Candidat-custom.Candidat_si_M2_master.Candidat_si_M2_master_ingenierie_automobile",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "23f6304f-6db2-4a94-b112-8ba7b1a6268f",
+          "required": false,
+          "dataType": "@Master",
+          "name": "Master",
+          "value": "$Master",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "fr",
+          "condition": "",
+          "speech": "Vous êtes intéressé par le master international d\u0027ingénierie automobile. Vous trouverez l\u0027ensemble du programme détaillé sur : \n\nhttp://www.emae.eu/study-program\n\nLa plaquette : \n\nhttps://www.ensta-bretagne.fr/sites/default/files/2018-10/master-in-automotive-engineering.pdf"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

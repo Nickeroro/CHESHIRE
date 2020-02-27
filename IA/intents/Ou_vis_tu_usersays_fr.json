@@ -1,0 +1,509 @@
+[
+  {
+    "id": "90762b57-86f0-4b42-8a5b-daf901e32c92",
+    "data": [
+      {
+        "text": "je vis à ",
+        "userDefined": false
+      },
+      {
+        "text": "San franscico",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "33ff94a3-9aef-4a53-8a57-5c91de84f7b7",
+    "data": [
+      {
+        "text": "Je vis à ",
+        "userDefined": false
+      },
+      {
+        "text": "Brest",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": true
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 0
+  },
+  {
+    "id": "c7d4a1b2-2e00-444d-a51b-b2403caab63d",
+    "data": [
+      {
+        "text": "je vis à ",
+        "userDefined": false
+      },
+      {
+        "text": "brest",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5ab97a15-5c6f-47bc-90eb-28980b442677",
+    "data": [
+      {
+        "text": "je vis a ",
+        "userDefined": false
+      },
+      {
+        "text": "brest",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "739d86d8-806f-4e98-9687-62ef32003548",
+    "data": [
+      {
+        "text": "Je vis en France",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "154a366f-8126-4d39-9377-3b605904a89a",
+    "data": [
+      {
+        "text": "Je vis à ",
+        "userDefined": false
+      },
+      {
+        "text": "Monaco",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "9691e6cd-6408-4b0a-8c2e-85ba94301e93",
+    "data": [
+      {
+        "text": "Je viens de ",
+        "userDefined": false
+      },
+      {
+        "text": "Brest",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "36378755-6933-4452-8cfd-4ae00a2196c6",
+    "data": [
+      {
+        "text": "en france",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4ac4187b-a98d-4b7d-9e53-80182d0de137",
+    "data": [
+      {
+        "text": "En France",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "68bfcc40-89ea-41f1-9a91-f43b2b700abd",
+    "data": [
+      {
+        "text": "Je viens de ",
+        "userDefined": false
+      },
+      {
+        "text": "Los angeles",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "19f66903-5409-4494-ae40-dafeb8af8929",
+    "data": [
+      {
+        "text": "Je ",
+        "userDefined": false
+      },
+      {
+        "text": "viens",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " de ",
+        "userDefined": false
+      },
+      {
+        "text": "France",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d3fe5c6b-2bc6-48e3-961a-137fbc37e72a",
+    "data": [
+      {
+        "text": "je viens d\u0027Espagne",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "65ad9be1-fdc3-45c0-a394-9f24de961c61",
+    "data": [
+      {
+        "text": "En Allemagne",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d7aee965-0457-407c-b1dc-f8567373f816",
+    "data": [
+      {
+        "text": "je loge à ",
+        "userDefined": false
+      },
+      {
+        "text": "Lille",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "02cd3451-e4a6-41a5-8540-3590259a74e1",
+    "data": [
+      {
+        "text": "Je loge à ",
+        "userDefined": false
+      },
+      {
+        "text": "Marseille",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "83a9683b-8a2d-4614-9bcd-e8559814a00f",
+    "data": [
+      {
+        "text": "j\u0027habite à ",
+        "userDefined": false
+      },
+      {
+        "text": "Marseille",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "7ea369f2-9f72-434f-b1c0-d177a15c158c",
+    "data": [
+      {
+        "text": "je viens de ",
+        "userDefined": false
+      },
+      {
+        "text": "Brest",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "7bc29487-2b22-4d92-ba6e-c98c044ca8b2",
+    "data": [
+      {
+        "text": "je viens de ",
+        "userDefined": false
+      },
+      {
+        "text": "Morlaix",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "05095131-10ca-448c-9ecc-cb3eecb8c7df",
+    "data": [
+      {
+        "text": "je vien de ",
+        "userDefined": false
+      },
+      {
+        "text": "Brest",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f0648ccf-d53f-4c79-8ab7-99734ad2c0c4",
+    "data": [
+      {
+        "text": "Je loge à ",
+        "userDefined": false
+      },
+      {
+        "text": "Monaco",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c5413dc8-89dd-412e-a187-352db9aca998",
+    "data": [
+      {
+        "text": "Je vis à ",
+        "userDefined": false
+      },
+      {
+        "text": "Rennes",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "facf5070-72b2-41f3-90ec-5b597d9eab9c",
+    "data": [
+      {
+        "text": "Je vis à ",
+        "userDefined": false
+      },
+      {
+        "text": "Quimper",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0fc00807-80da-46d7-b9d4-8d6cefe7efc4",
+    "data": [
+      {
+        "text": "Actuellement",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": ", je loge au ",
+        "userDefined": false
+      },
+      {
+        "text": "Faou",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5e64576e-92cf-429b-b1b8-802f07438f35",
+    "data": [
+      {
+        "text": "J\u0027habite à ",
+        "userDefined": false
+      },
+      {
+        "text": "Marseille",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      },
+      {
+        "text": " !",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7b853616-6c05-4268-8c7a-82c3076142ce",
+    "data": [
+      {
+        "text": "je vis à ",
+        "userDefined": false
+      },
+      {
+        "text": "Lyon",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a285ed0d-db70-4b1b-9aa5-a8daace62ae2",
+    "data": [
+      {
+        "text": "Je vis à ",
+        "userDefined": false
+      },
+      {
+        "text": "Châteaulin",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "52cedb58-d429-40c1-8af9-2debcc6330a3",
+    "data": [
+      {
+        "text": "Je vis à ",
+        "userDefined": false
+      },
+      {
+        "text": "Brest",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "b07475e8-b8eb-4a6e-bd47-4f20485ea908",
+    "data": [
+      {
+        "text": "Je suis ",
+        "userDefined": false
+      },
+      {
+        "text": "actuellement",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " à ",
+        "userDefined": false
+      },
+      {
+        "text": "Paris",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

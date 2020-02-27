@@ -1,0 +1,72 @@
+[
+  {
+    "value": "BTS",
+    "synonyms": [
+      "BTS",
+      "brevet technique spécialisé"
+    ]
+  },
+  {
+    "value": "classes préparatoires",
+    "synonyms": [
+      "Classes préparatoires",
+      "prépa",
+      "MPSI",
+      "PSI",
+      "PCSI",
+      "PC",
+      "MP",
+      "TSI",
+      "CPGE"
+    ]
+  },
+  {
+    "value": "DUT",
+    "synonyms": [
+      "DUT",
+      "étudiant en IUT",
+      "GEII",
+      "GMP",
+      "GP",
+      "génie électrique et informatique industrielle",
+      "génie mécanique productique"
+    ]
+  },
+  {
+    "value": "licence professionnelle",
+    "synonyms": [
+      "Licence professionnelle",
+      "LP",
+      "LP MEE",
+      "LP SE",
+      "LP SN",
+      "LP méca"
+    ]
+  },
+  {
+    "value": "prépa ATS",
+    "synonyms": [
+      "ATS",
+      "prépa ATS",
+      "prepa ats",
+      "ats"
+    ]
+  },
+  {
+    "value": "master",
+    "synonyms": [
+      "master",
+      "master hydrographie",
+      "M2"
+    ]
+  },
+  {
+    "value": "licence",
+    "synonyms": [
+      "licence de physique en dernière année",
+      "en L3",
+      "licence",
+      "licence de mathématique"
+    ]
+  }
+]

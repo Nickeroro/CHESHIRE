@@ -1,0 +1,55 @@
+{
+  "id": "d144ed55-5beb-43f0-ac2d-b24e9102cef0",
+  "parentId": "68b983e2-c7da-4185-9ef6-74f82075a195",
+  "rootParentId": "d6e46e22-e0de-4b16-ba31-af6411015a33",
+  "name": "Candidat_si_prepa_apprentissage",
+  "auto": true,
+  "contexts": [
+    "Candidat_si_prepa-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Candidat.Candidat_si_prepa.Candidat_si_prepa_apprentissage",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "4b3749d5-1f65-4481-ae8c-18cfcd779bbf",
+          "required": false,
+          "dataType": "@Statut_ENSTA",
+          "name": "Statut_ENSTA",
+          "value": "$Statut_ENSTA",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "fr",
+          "condition": "",
+          "speech": "Pour l\u0027apprentissage, l\u0027admission s\u0027effectue sur titre, dossier et entretien. Vous trouverez : \n\n- la brochure explicative : \n\nhttps://www.ensta-bretagne.fr/sites/default/files/2019-11/ENSTA-FIPA2019-210x280-WEB.pdf\n\n- le programme en détail de la formation par alternance : \n\nhttps://www.ensta-bretagne.fr/sites/default/files/2020-01/ENSTA-FIPA2019-Encart4p-oct2019.pdf"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

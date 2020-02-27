@@ -1,0 +1,777 @@
+[
+  {
+    "id": "9aa0db11-0807-47f6-ab51-d3fd1078e999",
+    "data": [
+      {
+        "text": "bonjour, j\u0027aimerais ",
+        "userDefined": false
+      },
+      {
+        "text": "intégrer",
+        "alias": "Integrer_ENSTA",
+        "meta": "@Integrer_ENSTA",
+        "userDefined": true
+      },
+      {
+        "text": " l\u0027ENSTA",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "eb3a7d04-a601-4c9e-815b-b102e70b68b1",
+    "data": [
+      {
+        "text": "CPGE",
+        "alias": "Niveau_etude",
+        "meta": "@Niveau_etude",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "42388d6a-8ec5-442e-8836-7be0daaab496",
+    "data": [
+      {
+        "text": "le cycle ingénieur sous statut militaire",
+        "alias": "Statut_ENSTA",
+        "meta": "@Statut_ENSTA",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f6599023-aab6-44d7-b502-2a72467c320a",
+    "data": [
+      {
+        "text": "oui !",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c75b358a-ffcf-4c3e-a68b-a74934cb1925",
+    "data": [
+      {
+        "text": "Bonjour Yétibot !\nJe suis actuellement étudiante en ",
+        "userDefined": false
+      },
+      {
+        "text": "IUT",
+        "alias": "Niveau_etude",
+        "meta": "@Niveau_etude",
+        "userDefined": true
+      },
+      {
+        "text": " et je souhaite des informations sur ",
+        "userDefined": false
+      },
+      {
+        "text": "l\u0027alternance",
+        "alias": "Statut_ENSTA",
+        "meta": "@Statut_ENSTA",
+        "userDefined": true
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d86b8b06-419e-470d-becf-822eedeb344c",
+    "data": [
+      {
+        "text": "bonjour je suis en ",
+        "userDefined": false
+      },
+      {
+        "text": "BTS SN",
+        "alias": "Niveau_etude",
+        "meta": "@Niveau_etude",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "4ced8e07-8163-43ae-a9a3-dddca9381944",
+    "data": [
+      {
+        "text": "bonjour, je suis en ",
+        "userDefined": false
+      },
+      {
+        "text": "DUT GEII",
+        "alias": "Niveau_etude",
+        "meta": "@Niveau_etude",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b7f0013c-c583-4a76-8684-ffbd413d15de",
+    "data": [
+      {
+        "text": "dut geii",
+        "alias": "Niveau_etude",
+        "meta": "@Niveau_etude",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4e812680-8be5-4d22-9fd6-238cc49d01ca",
+    "data": [
+      {
+        "text": "bonjour je veux faire ",
+        "userDefined": false
+      },
+      {
+        "text": "pfn",
+        "alias": "Filieres",
+        "meta": "@Filieres",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e140bbc1-1a55-4fe2-9d75-c048ecf4f149",
+    "data": [
+      {
+        "text": "je viens de ",
+        "userDefined": false
+      },
+      {
+        "text": "geii",
+        "alias": "Niveau_etude",
+        "meta": "@Niveau_etude",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "da60d960-aa72-4ddb-bde8-913c4d9f32e5",
+    "data": [
+      {
+        "text": "bonjour j\u0027aimerais ",
+        "userDefined": false
+      },
+      {
+        "text": "intégrer l\u0027ENSTA",
+        "alias": "integrer_ensta",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "15c8129b-2268-4949-9679-cb65fa192a34",
+    "data": [
+      {
+        "text": "en ",
+        "userDefined": false
+      },
+      {
+        "text": "iut",
+        "alias": "Niveau_etude",
+        "meta": "@Niveau_etude",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "202ecd23-d125-4be6-a1c1-441f5d2990bc",
+    "data": [
+      {
+        "text": "alternance",
+        "alias": "Statut_ENSTA",
+        "meta": "@Statut_ENSTA",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "43540beb-c7e6-4c6b-9697-a2067702478b",
+    "data": [
+      {
+        "text": "le cycle ingénieur par alternance",
+        "alias": "Statut_ENSTA",
+        "meta": "@Statut_ENSTA",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "4ed02c1d-7456-41d7-9dfc-add112b34ce9",
+    "data": [
+      {
+        "text": "bjr ! je suis en ",
+        "userDefined": false
+      },
+      {
+        "text": "iut",
+        "alias": "Niveau_etude",
+        "meta": "@Niveau_etude",
+        "userDefined": true
+      },
+      {
+        "text": " et je voudrais des informations sur l\u0027ensta",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4ab2d344-095b-434f-a58e-716d2fa95663",
+    "data": [
+      {
+        "text": "bonjour je suis en ",
+        "userDefined": false
+      },
+      {
+        "text": "cpge",
+        "alias": "Niveau_etude",
+        "meta": "@Niveau_etude",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d11f1088-b1d9-4376-8dea-fcfcde92f5a4",
+    "data": [
+      {
+        "text": "intégrer",
+        "alias": "Integrer_ENSTA",
+        "meta": "@Integrer_ENSTA",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "321f9bf7-8baf-4226-bf0a-a5857fc6c1be",
+    "data": [
+      {
+        "text": "iut",
+        "alias": "Niveau_etude",
+        "meta": "@Niveau_etude",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 0
+  },
+  {
+    "id": "491f8566-efa2-4bf3-ab96-9b3c65214485",
+    "data": [
+      {
+        "text": "formation par apprentissage",
+        "alias": "Statut_ENSTA",
+        "meta": "@Statut_ENSTA",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "4925abd0-a08c-4607-a9da-788481eeb553",
+    "data": [
+      {
+        "text": "bonjour je veux ",
+        "userDefined": false
+      },
+      {
+        "text": "intégrer",
+        "alias": "Integrer_ENSTA",
+        "meta": "@Integrer_ENSTA",
+        "userDefined": true
+      },
+      {
+        "text": " l\u0027ensta en ",
+        "userDefined": false
+      },
+      {
+        "text": "apprentissage",
+        "alias": "Statut_ENSTA",
+        "meta": "@Statut_ENSTA",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5126e201-d13d-4b62-8568-fcba8394320b",
+    "data": [
+      {
+        "text": "prépa",
+        "alias": "Niveau_etude",
+        "meta": "@Niveau_etude",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "d3946ea2-7a40-4ee4-bd85-9b2d670a788d",
+    "data": [
+      {
+        "text": "bonjour, je souhaite des ",
+        "userDefined": false
+      },
+      {
+        "text": "renseignements",
+        "alias": "Integrer_ENSTA",
+        "meta": "@Integrer_ENSTA",
+        "userDefined": true
+      },
+      {
+        "text": " sur la ",
+        "userDefined": false
+      },
+      {
+        "text": "formation par alternance",
+        "alias": "Statut_ENSTA",
+        "meta": "@Statut_ENSTA",
+        "userDefined": true
+      },
+      {
+        "text": " et je viens ",
+        "userDefined": false
+      },
+      {
+        "text": "d\u0027",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "un ",
+        "userDefined": false
+      },
+      {
+        "text": "IUT geii",
+        "alias": "Niveau_etude",
+        "meta": "@Niveau_etude",
+        "userDefined": true
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "11233568-2c9c-4aa5-95ac-b85da4d34c7c",
+    "data": [
+      {
+        "text": "entrer",
+        "alias": "integrer_ensta",
+        "userDefined": false
+      },
+      {
+        "text": " à l\u0027ENSTA",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7fdab8a3-2d39-406a-bfd3-79cdee3db9b6",
+    "data": [
+      {
+        "text": "bts",
+        "alias": "Niveau_etude",
+        "meta": "@Niveau_etude",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a0b5323e-65f6-4dd4-96db-a8fe049d8931",
+    "data": [
+      {
+        "text": "Je veux ",
+        "userDefined": false
+      },
+      {
+        "text": "intégrer l\u0027ENSTA",
+        "alias": "integrer_ensta",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "84f005a8-6fda-40d7-904c-48aa691e0784",
+    "data": [
+      {
+        "text": "IUT",
+        "alias": "Niveau_etude",
+        "meta": "@Niveau_etude",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b6796d68-8a06-4a80-8b0a-78843e37f45f",
+    "data": [
+      {
+        "text": "Je suis a ",
+        "userDefined": false
+      },
+      {
+        "text": "l\u0027IUT et en apprentissage",
+        "alias": "Niveau_etude",
+        "meta": "@Niveau_etude",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4211a489-3c9a-4ee4-a290-a5feaffd8537",
+    "data": [
+      {
+        "text": "mastères spécialisé",
+        "alias": "Statut_ENSTA",
+        "meta": "@Statut_ENSTA",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e1eb7d80-7c4b-4aab-8e84-0ac532207665",
+    "data": [
+      {
+        "text": "spécialisés",
+        "alias": "Statut_ENSTA",
+        "meta": "@Statut_ENSTA",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "169988a3-e377-414f-aebe-556422f60c59",
+    "data": [
+      {
+        "text": "bonjour je veux intégrer l\u0027ensta en ",
+        "userDefined": false
+      },
+      {
+        "text": "apprentissage",
+        "alias": "Statut_ENSTA",
+        "meta": "@Statut_ENSTA",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "9ce7002a-ff8c-4afe-af7b-f33a80fa0fee",
+    "data": [
+      {
+        "text": "intégrer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "4d899575-d665-4294-b85d-20d5e9aff91e",
+    "data": [
+      {
+        "text": "bonjour je suis en ",
+        "userDefined": false
+      },
+      {
+        "text": "cpge",
+        "alias": "niveau_etude",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6df8bb38-6491-4cd1-b9ed-e35c12a41cd4",
+    "data": [
+      {
+        "text": "cpge",
+        "alias": "niveau_etude",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "98605d44-5f11-4e86-bcc3-2c4321cf9732",
+    "data": [
+      {
+        "text": "intégrer",
+        "alias": "integrer_ensta",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "d1407962-99e9-4c81-b3a1-e1171b896736",
+    "data": [
+      {
+        "text": "iut",
+        "alias": "niveau_etude",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "531413ee-1d7f-4aa4-92ed-3693b8931340",
+    "data": [
+      {
+        "text": "bonjour je veux ",
+        "userDefined": false
+      },
+      {
+        "text": "intégrer l\u0027ensta",
+        "alias": "integrer_ensta",
+        "userDefined": false
+      },
+      {
+        "text": " en ",
+        "userDefined": false
+      },
+      {
+        "text": "apprentissage",
+        "alias": "statut_ensta",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6d28a2bc-0c4e-4ed4-b865-04c15e4904d6",
+    "data": [
+      {
+        "text": "prépa",
+        "alias": "niveau_etude",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b3b178f8-6772-40f2-909a-aef0fcd95a33",
+    "data": [
+      {
+        "text": "Bonjour, je souhaite ",
+        "userDefined": false
+      },
+      {
+        "text": "intégrer l\u0027ensta",
+        "alias": "Integrer_ENSTA",
+        "meta": "@Integrer_ENSTA",
+        "userDefined": true
+      },
+      {
+        "text": " après mon ",
+        "userDefined": false
+      },
+      {
+        "text": "DUT GEII",
+        "alias": "Niveau_etude",
+        "meta": "@Niveau_etude",
+        "userDefined": true
+      },
+      {
+        "text": "  en ",
+        "userDefined": false
+      },
+      {
+        "text": "formation par alternance",
+        "alias": "Statut_ENSTA",
+        "meta": "@Statut_ENSTA",
+        "userDefined": true
+      },
+      {
+        "text": " en option systèmes embarqués.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "2b814f45-9d50-4f6f-8ff2-54a03e82a73e",
+    "data": [
+      {
+        "text": "Je veux ",
+        "userDefined": false
+      },
+      {
+        "text": "intégrer l\u0027ensta",
+        "alias": "Integrer_ENSTA",
+        "meta": "@Integrer_ENSTA",
+        "userDefined": true
+      },
+      {
+        "text": ". Quels sont les modalités ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fe83e65b-f52e-46e5-b023-3d5b619a23a2",
+    "data": [
+      {
+        "text": "comment ",
+        "userDefined": false
+      },
+      {
+        "text": "rentrer à l\u0027ensta",
+        "alias": "Integrer_ENSTA",
+        "meta": "@Integrer_ENSTA",
+        "userDefined": true
+      },
+      {
+        "text": " dans la filière ",
+        "userDefined": false
+      },
+      {
+        "text": "se",
+        "alias": "Filieres",
+        "meta": "@Filieres",
+        "userDefined": false
+      },
+      {
+        "text": " ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "202b5096-afd6-4394-bcdd-62c9762fb6d0",
+    "data": [
+      {
+        "text": "Je suis en ",
+        "userDefined": false
+      },
+      {
+        "text": "IUT",
+        "alias": "Niveau_etude",
+        "meta": "@Niveau_etude",
+        "userDefined": false
+      },
+      {
+        "text": "  et je souhaite des informations sur la filière ",
+        "userDefined": false
+      },
+      {
+        "text": "pfn",
+        "alias": "Filieres",
+        "meta": "@Filieres",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

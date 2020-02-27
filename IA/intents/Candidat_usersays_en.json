@@ -1,0 +1,36 @@
+[
+  {
+    "id": "df8c94d7-8850-449f-a357-18eb653108d5",
+    "data": [
+      {
+        "text": "I would like to go at the ENSTA Bretagne",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1cbfb305-82b5-46a2-9bf3-30410debe8d5",
+    "data": [
+      {
+        "text": "Hello, I would like to ",
+        "userDefined": false
+      },
+      {
+        "text": "integrate",
+        "alias": "Integrer_ENSTA",
+        "meta": "@Integrer_ENSTA",
+        "userDefined": true
+      },
+      {
+        "text": " the ENSTA Bretagne",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

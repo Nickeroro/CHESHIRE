@@ -1,0 +1,72 @@
+[
+  {
+    "id": "367607c8-964b-4266-bf43-6276321e9192",
+    "data": [
+      {
+        "text": "fise",
+        "alias": "Statut_ENSTA",
+        "meta": "@Statut_ENSTA",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c138e03a-f96f-4639-a730-fbaea4ada893",
+    "data": [
+      {
+        "text": "ci",
+        "alias": "Statut_ENSTA",
+        "meta": "@Statut_ENSTA",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4da0174b-3dc2-4cc7-b112-623761f9b033",
+    "data": [
+      {
+        "text": "cycle ingénieur sous statut étudiant",
+        "alias": "Statut_ENSTA",
+        "meta": "@Statut_ENSTA",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e5afca0f-00d7-464c-aa45-732065976d32",
+    "data": [
+      {
+        "text": "ingé",
+        "alias": "Statut_ENSTA",
+        "meta": "@Statut_ENSTA",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c101fccb-2cca-4d01-b4c0-3ef2a86dbd99",
+    "data": [
+      {
+        "text": "cycle ingénieur généraliste",
+        "alias": "Statut_ENSTA",
+        "meta": "@Statut_ENSTA",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

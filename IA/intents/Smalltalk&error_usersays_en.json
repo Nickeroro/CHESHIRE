@@ -1,0 +1,134 @@
+[
+  {
+    "id": "1fad7b0f-6a9d-466f-8125-ab9c98ddf92d",
+    "data": [
+      {
+        "text": "Face",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d0786b6e-961f-48ce-8106-de2a839916f2",
+    "data": [
+      {
+        "text": "GOOGLE_ASSISTANT_WELCOME",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7d657289-8f9a-4665-be30-3c3075c008d0",
+    "data": [
+      {
+        "text": "I want you to stop",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "50aa8fd5-57af-4bc3-86e6-c8dd48bc9003",
+    "data": [
+      {
+        "text": "Stop talking.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9d0d8adc-e982-4163-ade6-eb64e5fd2551",
+    "data": [
+      {
+        "text": "Are you ok ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "dc0e2068-7db9-4b38-a5ac-03d6d51a7b76",
+    "data": [
+      {
+        "text": "Do you wanna marry me ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "79c29422-4b21-490a-8c18-41f60f75a88a",
+    "data": [
+      {
+        "text": "I love you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "248bfe95-73df-48eb-aec6-e22d055a3748",
+    "data": [
+      {
+        "text": "How old are you ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e548c542-fb5e-4581-a396-b4e4224035fd",
+    "data": [
+      {
+        "text": "Where have you been programmed ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "01b33601-d88e-44c9-a7b5-f661d56173b7",
+    "data": [
+      {
+        "text": "Where are you coming from ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2ef8b504-3a15-4541-a01e-3d754ddd0059",
+    "data": [
+      {
+        "text": "I\u0027m Nicolas and you ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,55 @@
+{
+  "id": "56ccc0b2-442a-4c8f-89e8-8cdb75a48005",
+  "parentId": "3d466feb-b3b9-42a1-9546-27e80a38f2f5",
+  "rootParentId": "3d466feb-b3b9-42a1-9546-27e80a38f2f5",
+  "name": "Cout_formation_master",
+  "auto": true,
+  "contexts": [
+    "Cout_formation-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Cout_formation.Cout_formation_master",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "a4ec14f4-8a20-41f8-9818-6262db298440",
+          "required": false,
+          "dataType": "@Niveau_etude",
+          "name": "Niveau_etude",
+          "value": "$Niveau_etude",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "fr",
+          "condition": "",
+          "speech": "Les frais de dossier s\u0027élève à 30 €.\nLes frais de scolarité s\u0027élèvent à 2150 € pour les étudiants de l\u0027union européenne. Pour les étudiants non - européen voici les coûts : \n\nÉtudiants hors UE\t\nIngénierie automobile (1ère année)\t\t\t7 000 €\t\nIngénierie automobile : (2e année)\t\t\t5 000 €\t\nMaster en Hydrographie (2 ans)\t\t\t8 000 €/an\t\nMaster en Génie maritime (2 ans)\t\t\t8 000 €/an\t\nMaster en robotique mobile (2 ans)\t\t\t8 000 €/an\t\nMaster Architecture et sécurité des systèmes électroniques et logiciels (2 ans) 8 000 €/an\t\n\nLes organismes quant à eux payeront 12000 €."
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

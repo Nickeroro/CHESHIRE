@@ -1,0 +1,30 @@
+[
+  {
+    "id": "91cc981e-2494-402c-97c1-a1b74dae9a01",
+    "data": [
+      {
+        "text": "master en génie maritime",
+        "alias": "Statut_ENSTA",
+        "meta": "@Statut_ENSTA",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "51473ba0-79b1-4cd5-bd90-1ee78a07d2f9",
+    "data": [
+      {
+        "text": "génie maritime",
+        "alias": "Statut_ENSTA",
+        "meta": "@Statut_ENSTA",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

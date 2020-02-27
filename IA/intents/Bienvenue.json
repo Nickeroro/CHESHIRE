@@ -21,12 +21,22 @@
           "lang": "fr",
           "condition": "",
           "speech": [
-            "Salut !  Quel est ton souhait ?",
-            "Bonjour ! En quoi puis-je t\u0027aider aujourd\u0027hui ?",
-            "Salutations ! Quel est ton souhait ?",
-            "Bienvenue !  En quoi puis-je t\u0027aider aujourd\u0027hui ?",
-            "Hey ! Quel est ton souhait ?",
-            "Hello !  En quoi puis-je t\u0027aider aujourd\u0027hui ?"
+            "Salut !  Quel est ton souhait ?\n\n- Prendre contact avec...\n- Intégrer l\u0027ENSTA \n- Obtenir des sujets de devoir des années précédentes\n- Payement en ligne\n- Hébergements\n- Coût formation",
+            "Bonjour ! En quoi puis-je t\u0027aider aujourd\u0027hui ?\n\n- Prendre contact avec...\n- Intégrer l\u0027ENSTA \n- Obtenir des sujets de devoir des années précédentes\n- Payement en ligne\n- Hébergements\n- Coût formation",
+            "Salutations ! Quel est ton souhait ?\n\n- Prendre contact avec...\n- Intégrer l\u0027ENSTA \n- Obtenir des sujets de devoir des années précédentes\n- Payement en ligne\n- Hébergements\n- Coût formation",
+            "Bienvenue !  En quoi puis-je t\u0027aider aujourd\u0027hui ?\n\n- Prendre contact avec...\n- Intégrer l\u0027ENSTA \n- Obtenir des sujets de devoir des années précédentes\n- Payement en ligne\n- Hébergements\n- Coût formation",
+            "Hey ! Quel est ton souhait ?\n\n- Prendre contact avec...\n- Intégrer l\u0027ENSTA \n- Obtenir des sujets de devoir des années précédentes\n- Payement en ligne\n- Hébergements\n- Coût formation",
+            "Hello !  En quoi puis-je t\u0027aider aujourd\u0027hui ?\n\n- Prendre contact avec...\n- Intégrer l\u0027ENSTA \n- Obtenir des sujets de devoir des années précédentes\n- Payement en ligne\n- Hébergements\n- Coût formation"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": [
+            "Hey, how can I help you ?",
+            "Hi ! What are you looking for ?",
+            "Hello how can I help you ?"
           ]
         }
       ],

@@ -1,0 +1,55 @@
+{
+  "id": "6ee6ef82-dc27-4f54-9275-0d7871ff7110",
+  "parentId": "d6e46e22-e0de-4b16-ba31-af6411015a33",
+  "rootParentId": "d6e46e22-e0de-4b16-ba31-af6411015a33",
+  "name": "Candidat_if_BSC",
+  "auto": true,
+  "contexts": [
+    "Candidat-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Candidat.Candidat_if_BSC",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "94f163cf-94f0-4671-bfab-2ffb759b131f",
+          "required": false,
+          "dataType": "@Niveau_etude",
+          "name": "Niveau_etude",
+          "value": "$Niveau_etude",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": true
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "You actually are in #Candidat-followup.Niveau_etude or equivalent. You can apply to a wide range of programs in Marine Engineering, Mechanical Science, IT and Human Science for Engineers:\n\n- Master\u0027s degree (MSc - Master of Science): a 2-year program for BSc or equivalent graduates\n\n    Maritime Engineering\n    Hydrography\n    Automotive Engineering\n    Mobile Robotics\n    Electronics Systems and Software Design and Security\n\n- Diplôme d’ingénieur : Msc in Engineering\nA multi-disciplinary core curriculum, covering the major technological fields (Mathematics, ICT, Mechanics) and Human Sciences. 9 specialized courses."
+        },
+        {
+          "type": 0,
+          "lang": "fr",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
