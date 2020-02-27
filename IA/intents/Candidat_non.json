@@ -1,27 +1,30 @@
 {
-  "id": "aea5b192-87f1-4d52-80af-1d49033033e2",
-  "name": "Test",
+  "id": "0069bed8-d2e6-4ef4-871f-b3c289abf4a4",
+  "parentId": "d6e46e22-e0de-4b16-ba31-af6411015a33",
+  "rootParentId": "d6e46e22-e0de-4b16-ba31-af6411015a33",
+  "name": "Candidat_non",
   "auto": true,
-  "contexts": [],
+  "contexts": [
+    "Candidat-followup"
+  ],
   "responses": [
     {
       "resetContexts": false,
-      "affectedContexts": [],
+      "action": "Candidat.Candidat_non",
+      "affectedContexts": [
+        {
+          "name": "Candidat_non-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
       "parameters": [],
       "messages": [
         {
           "type": 0,
           "lang": "fr",
           "condition": "",
-<<<<<<< HEAD
-          "speech": "www.google.com"
-=======
-          "speech": [
-            "Test-test, alpha test.",
-            "Alpha, Bravo, Charlie : test.",
-            "C\u0027est un test."
-          ]
->>>>>>> 5c0adc205a82cade47e6de2c0e2a9ab4d63ee00d
+          "speech": []
         }
       ],
       "defaultResponsePlatforms": {},

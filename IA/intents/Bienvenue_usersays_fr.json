@@ -1,9 +1,16 @@
 [
   {
+<<<<<<< HEAD
     "id": "8f7a7589-5723-428a-879f-4780259bc76d",
     "data": [
       {
         "text": "accueil",
+=======
+    "id": "89f8374a-a9cf-4409-86bb-507629847c4b",
+    "data": [
+      {
+        "text": "coucou",
+>>>>>>> 5c0adc205a82cade47e6de2c0e2a9ab4d63ee00d
         "userDefined": false
       }
     ],
@@ -12,19 +19,11 @@
     "updated": 0
   },
   {
+<<<<<<< HEAD
     "id": "89f8374a-a9cf-4409-86bb-507629847c4b",
-    "data": [
-      {
-        "text": "coucou",
-        "userDefined": false
-      }
-    ],
-    "isTemplate": false,
-    "count": 1,
-    "updated": 0
-  },
-  {
+=======
     "id": "741bbe7a-474b-4da8-8b32-938a6fc76b92",
+>>>>>>> 5c0adc205a82cade47e6de2c0e2a9ab4d63ee00d
     "data": [
       {
         "text": "bonjour",
@@ -36,7 +35,11 @@
     "updated": 0
   },
   {
+<<<<<<< HEAD
+    "id": "741bbe7a-474b-4da8-8b32-938a6fc76b92",
+=======
     "id": "a819fb52-1c40-49e5-afcc-59bef9da2797",
+>>>>>>> 5c0adc205a82cade47e6de2c0e2a9ab4d63ee00d
     "data": [
       {
         "text": "Hey",
@@ -48,10 +51,17 @@
     "updated": 0
   },
   {
+<<<<<<< HEAD
+    "id": "a819fb52-1c40-49e5-afcc-59bef9da2797",
+    "data": [
+      {
+        "text": "Hey",
+=======
     "id": "50af7d1e-1fe1-4226-9923-155619fa9e11",
     "data": [
       {
         "text": "Bonjour",
+>>>>>>> 5c0adc205a82cade47e6de2c0e2a9ab4d63ee00d
         "userDefined": false
       }
     ],
@@ -60,10 +70,17 @@
     "updated": 0
   },
   {
+<<<<<<< HEAD
+    "id": "50af7d1e-1fe1-4226-9923-155619fa9e11",
+    "data": [
+      {
+        "text": "Bonjour",
+=======
     "id": "1f634f77-2d3d-4d76-bf2b-e7cc7dd37d4a",
     "data": [
       {
         "text": "Salut",
+>>>>>>> 5c0adc205a82cade47e6de2c0e2a9ab4d63ee00d
         "userDefined": false
       }
     ],
@@ -72,22 +89,36 @@
     "updated": 0
   },
   {
+<<<<<<< HEAD
+    "id": "1f634f77-2d3d-4d76-bf2b-e7cc7dd37d4a",
+    "data": [
+      {
+        "text": "Salut",
+=======
     "id": "3fb064ae-826b-4ba3-83b1-77dc36007ca4",
     "data": [
       {
         "text": "hey",
+>>>>>>> 5c0adc205a82cade47e6de2c0e2a9ab4d63ee00d
         "userDefined": false
       }
     ],
     "isTemplate": false,
-    "count": 1,
+    "count": 4,
     "updated": 0
   },
   {
+<<<<<<< HEAD
+    "id": "3fb064ae-826b-4ba3-83b1-77dc36007ca4",
+    "data": [
+      {
+        "text": "hey",
+=======
     "id": "20e4fb07-b926-4404-b7e4-99820e1bdb06",
     "data": [
       {
         "text": "salut",
+>>>>>>> 5c0adc205a82cade47e6de2c0e2a9ab4d63ee00d
         "userDefined": false
       }
     ],
@@ -96,6 +127,9 @@
     "updated": 0
   },
   {
+<<<<<<< HEAD
+    "id": "20e4fb07-b926-4404-b7e4-99820e1bdb06",
+=======
     "id": "dcd7f3e6-227d-40cc-bc74-8463b25d131e",
     "data": [
       {
@@ -108,10 +142,11 @@
     "updated": 0
   },
   {
-    "id": "f6ccbd6b-0dd2-4e4d-9b70-381cc1870774",
+    "id": "bcef1f99-a1c0-42ca-9834-b0acc21931dd",
+>>>>>>> 5c0adc205a82cade47e6de2c0e2a9ab4d63ee00d
     "data": [
       {
-        "text": "HEy",
+        "text": "Hellloooo",
         "userDefined": false
       }
     ],
@@ -120,7 +155,30 @@
     "updated": 0
   },
   {
+<<<<<<< HEAD
+    "id": "dcd7f3e6-227d-40cc-bc74-8463b25d131e",
+    "data": [
+      {
+        "text": "Saluuuut",
+=======
+    "id": "f6ccbd6b-0dd2-4e4d-9b70-381cc1870774",
+    "data": [
+      {
+        "text": "HEy",
+>>>>>>> 5c0adc205a82cade47e6de2c0e2a9ab4d63ee00d
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 0
+  },
+  {
+<<<<<<< HEAD
+    "id": "f6ccbd6b-0dd2-4e4d-9b70-381cc1870774",
+=======
     "id": "dc3e1371-1e1e-49c1-86a9-80683e44de2e",
+>>>>>>> 5c0adc205a82cade47e6de2c0e2a9ab4d63ee00d
     "data": [
       {
         "text": "cc",
@@ -132,10 +190,36 @@
     "updated": 0
   },
   {
+<<<<<<< HEAD
+    "id": "dc3e1371-1e1e-49c1-86a9-80683e44de2e",
+    "data": [
+      {
+        "text": "cc",
+=======
     "id": "8d094b9d-cb69-44c0-afcd-590638df17d2",
     "data": [
       {
         "text": "boniour",
+>>>>>>> 5c0adc205a82cade47e6de2c0e2a9ab4d63ee00d
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+<<<<<<< HEAD
+    "id": "8d094b9d-cb69-44c0-afcd-590638df17d2",
+    "data": [
+      {
+        "text": "boniour",
+=======
+    "id": "0b66efa1-d224-4218-a7ac-49d077676948",
+    "data": [
+      {
+        "text": "hello",
+>>>>>>> 5c0adc205a82cade47e6de2c0e2a9ab4d63ee00d
         "userDefined": false
       }
     ],

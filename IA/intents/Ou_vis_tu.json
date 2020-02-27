@@ -22,7 +22,11 @@
       ],
       "parameters": [
         {
+<<<<<<< HEAD
           "id": "37ad0160-76ff-4bdb-856b-d891f8bee9d0",
+=======
+          "id": "d0949280-22f1-4032-8b0a-f2c9f3c10008",
+>>>>>>> 5c0adc205a82cade47e6de2c0e2a9ab4d63ee00d
           "required": true,
           "dataType": "@sys.geo-city",
           "name": "geo-city",
@@ -34,7 +38,11 @@
           "isList": false
         },
         {
+<<<<<<< HEAD
           "id": "d6741d1f-b785-49cb-b4d1-8f2660af2119",
+=======
+          "id": "bca20cc2-954e-47ab-8c86-82a365372380",
+>>>>>>> 5c0adc205a82cade47e6de2c0e2a9ab4d63ee00d
           "required": false,
           "dataType": "@sys.time",
           "name": "time",
@@ -49,6 +57,7 @@
       "messages": [
         {
           "type": 0,
+<<<<<<< HEAD
           "lang": "en",
           "condition": "",
           "speech": [
@@ -58,6 +67,8 @@
         },
         {
           "type": 0,
+=======
+>>>>>>> 5c0adc205a82cade47e6de2c0e2a9ab4d63ee00d
           "lang": "fr",
           "condition": "",
           "speech": [

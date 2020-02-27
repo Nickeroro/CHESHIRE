@@ -1,9 +1,16 @@
 [
   {
+<<<<<<< HEAD
     "id": "c421a89c-c542-421d-bcf7-3e52ba02cdd5",
     "data": [
       {
         "text": "Je suis Nicolas et toi ?",
+=======
+    "id": "d1e86620-8b8d-47ed-bfea-bb3e203bc3e5",
+    "data": [
+      {
+        "text": "je suis un Marie et toi ??",
+>>>>>>> 5c0adc205a82cade47e6de2c0e2a9ab4d63ee00d
         "userDefined": false
       }
     ],
@@ -12,10 +19,17 @@
     "updated": 0
   },
   {
+<<<<<<< HEAD
     "id": "4517121d-ffa7-4a36-821a-0c7faef2379d",
     "data": [
       {
         "text": "quels sont tes origines",
+=======
+    "id": "c421a89c-c542-421d-bcf7-3e52ba02cdd5",
+    "data": [
+      {
+        "text": "Je suis Nicolas et toi ?",
+>>>>>>> 5c0adc205a82cade47e6de2c0e2a9ab4d63ee00d
         "userDefined": false
       }
     ],
@@ -24,10 +38,17 @@
     "updated": 0
   },
   {
+<<<<<<< HEAD
     "id": "ca7515fc-e2dd-4e39-b03f-eebac3e18788",
     "data": [
       {
         "text": "tu as été programmée où ?",
+=======
+    "id": "4517121d-ffa7-4a36-821a-0c7faef2379d",
+    "data": [
+      {
+        "text": "quels sont tes origines",
+>>>>>>> 5c0adc205a82cade47e6de2c0e2a9ab4d63ee00d
         "userDefined": false
       }
     ],
@@ -36,10 +57,17 @@
     "updated": 0
   },
   {
+<<<<<<< HEAD
     "id": "18111e81-b559-462d-84b1-55be2f5fe39a",
     "data": [
       {
         "text": "quel âge as-tu ?",
+=======
+    "id": "ca7515fc-e2dd-4e39-b03f-eebac3e18788",
+    "data": [
+      {
+        "text": "tu as été programmée où ?",
+>>>>>>> 5c0adc205a82cade47e6de2c0e2a9ab4d63ee00d
         "userDefined": false
       }
     ],
@@ -48,10 +76,17 @@
     "updated": 0
   },
   {
+<<<<<<< HEAD
     "id": "e990dae7-597b-4153-a8b2-9105e7e6da0e",
     "data": [
       {
         "text": "jtm",
+=======
+    "id": "18111e81-b559-462d-84b1-55be2f5fe39a",
+    "data": [
+      {
+        "text": "quel âge as-tu ?",
+>>>>>>> 5c0adc205a82cade47e6de2c0e2a9ab4d63ee00d
         "userDefined": false
       }
     ],
@@ -60,10 +95,17 @@
     "updated": 0
   },
   {
+<<<<<<< HEAD
     "id": "aef66881-ade8-455b-9431-b474972b4563",
     "data": [
       {
         "text": "je t\u0027aime",
+=======
+    "id": "e990dae7-597b-4153-a8b2-9105e7e6da0e",
+    "data": [
+      {
+        "text": "jtm",
+>>>>>>> 5c0adc205a82cade47e6de2c0e2a9ab4d63ee00d
         "userDefined": false
       }
     ],
@@ -72,18 +114,46 @@
     "updated": 0
   },
   {
+<<<<<<< HEAD
     "id": "8749284c-2261-4748-87d2-0de8d3d6fc30",
     "data": [
       {
         "text": "ok",
+=======
+    "id": "aef66881-ade8-455b-9431-b474972b4563",
+    "data": [
+      {
+        "text": "je t\u0027aime",
+>>>>>>> 5c0adc205a82cade47e6de2c0e2a9ab4d63ee00d
         "userDefined": false
       }
     ],
     "isTemplate": false,
-    "count": 0,
+    "count": 1,
     "updated": 0
   },
   {
+<<<<<<< HEAD
+    "id": "80d774fb-542d-4962-bb74-fe3a2bfed52e",
+    "data": [
+      {
+        "text": "ohoh",
+=======
+    "id": "8749284c-2261-4748-87d2-0de8d3d6fc30",
+    "data": [
+      {
+        "text": "ok",
+>>>>>>> 5c0adc205a82cade47e6de2c0e2a9ab4d63ee00d
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+<<<<<<< HEAD
+=======
     "id": "80d774fb-542d-4962-bb74-fe3a2bfed52e",
     "data": [
       {
@@ -96,6 +166,7 @@
     "updated": 0
   },
   {
+>>>>>>> 5c0adc205a82cade47e6de2c0e2a9ab4d63ee00d
     "id": "51d61a49-2e8e-4cdc-8007-9720104688a3",
     "data": [
       {
@@ -200,6 +271,45 @@
       }
     ],
     "isTemplate": false,
+<<<<<<< HEAD
+=======
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "79b939ef-d4e2-4e6b-94bf-0ec18665760b",
+    "data": [
+      {
+        "text": "test",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 0
+  },
+  {
+    "id": "0c86e74c-0e74-48ac-9f01-477215448e27",
+    "data": [
+      {
+        "text": "GOOGLE_ASSISTANT_WELCOME",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "updated": 0
+  },
+  {
+    "id": "2069b01c-d846-4e0e-aef3-117d80a6fc6b",
+    "data": [
+      {
+        "text": "face",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+>>>>>>> 5c0adc205a82cade47e6de2c0e2a9ab4d63ee00d
     "count": 0,
     "updated": 0
   },

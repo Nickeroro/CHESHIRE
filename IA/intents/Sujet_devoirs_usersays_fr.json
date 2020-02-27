@@ -7,9 +7,20 @@
         "userDefined": false
       },
       {
+<<<<<<< HEAD
         "text": "contrôle en java",
         "meta": "@sys.ignore",
         "userDefined": true
+=======
+        "text": "contrôle",
+        "alias": "Devoirs",
+        "meta": "@Devoirs",
+        "userDefined": true
+      },
+      {
+        "text": " en java",
+        "userDefined": false
+>>>>>>> 5c0adc205a82cade47e6de2c0e2a9ab4d63ee00d
       }
     ],
     "isTemplate": false,
@@ -20,6 +31,7 @@
     "id": "d6a1e945-d8b1-4e94-8aad-2ba2554c2e0d",
     "data": [
       {
+<<<<<<< HEAD
         "text": "demain",
         "alias": "date",
         "meta": "@sys.date",
@@ -27,11 +39,19 @@
       },
       {
         "text": " j\u0027ai un ",
+=======
+        "text": "demain j\u0027ai un ",
+>>>>>>> 5c0adc205a82cade47e6de2c0e2a9ab4d63ee00d
         "userDefined": false
       },
       {
         "text": "be en ingénierie système",
+<<<<<<< HEAD
         "meta": "@sys.ignore",
+=======
+        "alias": "Devoirs",
+        "meta": "@Devoirs",
+>>>>>>> 5c0adc205a82cade47e6de2c0e2a9ab4d63ee00d
         "userDefined": true
       },
       {
@@ -52,6 +72,7 @@
       },
       {
         "text": "sujet",
+<<<<<<< HEAD
         "meta": "@sys.ignore",
         "userDefined": true
       },
@@ -63,6 +84,14 @@
         "text": "be",
         "meta": "@sys.ignore",
         "userDefined": true
+=======
+        "alias": "devoirs",
+        "userDefined": false
+      },
+      {
+        "text": " du be",
+        "userDefined": false
+>>>>>>> 5c0adc205a82cade47e6de2c0e2a9ab4d63ee00d
       }
     ],
     "isTemplate": false,
@@ -74,8 +103,13 @@
     "data": [
       {
         "text": "devoirs",
+<<<<<<< HEAD
         "meta": "@sys.ignore",
         "userDefined": true
+=======
+        "alias": "devoirs",
+        "userDefined": false
+>>>>>>> 5c0adc205a82cade47e6de2c0e2a9ab4d63ee00d
       }
     ],
     "isTemplate": false,
@@ -87,8 +121,13 @@
     "data": [
       {
         "text": "devoir",
+<<<<<<< HEAD
         "meta": "@sys.ignore",
         "userDefined": true
+=======
+        "alias": "devoirs",
+        "userDefined": false
+>>>>>>> 5c0adc205a82cade47e6de2c0e2a9ab4d63ee00d
       }
     ],
     "isTemplate": false,
@@ -104,7 +143,12 @@
       },
       {
         "text": "moi",
+<<<<<<< HEAD
         "meta": "@sys.ignore",
+=======
+        "alias": "date-period",
+        "meta": "@sys.date-period",
+>>>>>>> 5c0adc205a82cade47e6de2c0e2a9ab4d63ee00d
         "userDefined": false
       },
       {
@@ -112,9 +156,20 @@
         "userDefined": false
       },
       {
+<<<<<<< HEAD
         "text": "bureau d\u0027étude  de FPGA",
         "meta": "@sys.ignore",
         "userDefined": true
+=======
+        "text": "bureau d\u0027étude",
+        "alias": "Devoirs",
+        "meta": "@Devoirs",
+        "userDefined": false
+      },
+      {
+        "text": "  de FPGA",
+        "userDefined": false
+>>>>>>> 5c0adc205a82cade47e6de2c0e2a9ab4d63ee00d
       }
     ],
     "isTemplate": false,
@@ -130,7 +185,12 @@
       },
       {
         "text": "sujets",
+<<<<<<< HEAD
         "meta": "@sys.ignore",
+=======
+        "alias": "Devoirs",
+        "meta": "@Devoirs",
+>>>>>>> 5c0adc205a82cade47e6de2c0e2a9ab4d63ee00d
         "userDefined": true
       },
       {
@@ -139,8 +199,13 @@
       },
       {
         "text": "de l\u0027année dernière",
+<<<<<<< HEAD
         "alias": "date",
         "meta": "@sys.date",
+=======
+        "alias": "date-period",
+        "meta": "@sys.date-period",
+>>>>>>> 5c0adc205a82cade47e6de2c0e2a9ab4d63ee00d
         "userDefined": false
       },
       {
@@ -171,7 +236,12 @@
     "data": [
       {
         "text": "Devoirs",
+<<<<<<< HEAD
         "meta": "@sys.ignore",
+=======
+        "alias": "Devoirs",
+        "meta": "@Devoirs",
+>>>>>>> 5c0adc205a82cade47e6de2c0e2a9ab4d63ee00d
         "userDefined": false
       }
     ],

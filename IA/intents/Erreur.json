@@ -11,12 +11,15 @@
       "messages": [
         {
           "type": 0,
+<<<<<<< HEAD
           "lang": "en",
           "condition": "",
           "speech": "I did not understand this gibberish. Please rephrase."
         },
         {
           "type": 0,
+=======
+>>>>>>> 5c0adc205a82cade47e6de2c0e2a9ab4d63ee00d
           "lang": "fr",
           "condition": "",
           "speech": "Je n\u0027ai pas compris ce charabia. Veuillez reformuler s\u0027il vous plait."

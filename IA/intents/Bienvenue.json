@@ -21,6 +21,7 @@
           "lang": "fr",
           "condition": "",
           "speech": [
+<<<<<<< HEAD
             "Salut !  Quel est ton souhait ?\n\n- Prendre contact avec...\n- Intégrer l\u0027ENSTA \n- Obtenir des sujets de devoir des années précédentes\n- Payement en ligne\n- Hébergements\n- Coût formation",
             "Bonjour ! En quoi puis-je t\u0027aider aujourd\u0027hui ?\n\n- Prendre contact avec...\n- Intégrer l\u0027ENSTA \n- Obtenir des sujets de devoir des années précédentes\n- Payement en ligne\n- Hébergements\n- Coût formation",
             "Salutations ! Quel est ton souhait ?\n\n- Prendre contact avec...\n- Intégrer l\u0027ENSTA \n- Obtenir des sujets de devoir des années précédentes\n- Payement en ligne\n- Hébergements\n- Coût formation",
@@ -37,6 +38,14 @@
             "Hey, how can I help you ?",
             "Hi ! What are you looking for ?",
             "Hello how can I help you ?"
+=======
+            "Salut !  Quel est ton souhait ?\n\n- Prendre contact avec...\n- Intégrer l\u0027ENSTA \n- Obtenir des sujets de devoir des années précédentes",
+            "Bonjour ! En quoi puis-je t\u0027aider aujourd\u0027hui ?\n\n- Prendre contact avec...\n- Intégrer l\u0027ENSTA \n- Obtenir des sujets de devoir des années précédentes",
+            "Salutations ! Quel est ton souhait ?\n\n- Prendre contact avec...\n- Intégrer l\u0027ENSTA \n- Obtenir des sujets de devoir des années précédentes",
+            "Bienvenue !  En quoi puis-je t\u0027aider aujourd\u0027hui ?\n\n- Prendre contact avec...\n- Intégrer l\u0027ENSTA \n- Obtenir des sujets de devoir des années précédentes",
+            "Hey ! Quel est ton souhait ?\n\n- Prendre contact avec...\n- Intégrer l\u0027ENSTA \n- Obtenir des sujets de devoir des années précédentes",
+            "Hello !  En quoi puis-je t\u0027aider aujourd\u0027hui ?\n\n- Prendre contact avec...\n- Intégrer l\u0027ENSTA \n- Obtenir des sujets de devoir des années précédentes"
+>>>>>>> 5c0adc205a82cade47e6de2c0e2a9ab4d63ee00d
           ]
         }
       ],

@@ -1,0 +1,122 @@
+[
+  {
+    "id": "adefd5d5-5080-40bb-9a75-05e00da4e307",
+    "data": [
+      {
+        "text": "Tout à fait !",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "352918ae-0b32-4a95-83eb-0d48c029e85f",
+    "data": [
+      {
+        "text": "fais-le",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 0
+  },
+  {
+    "id": "b8a60915-86b4-49d4-82fb-bbde9decf422",
+    "data": [
+      {
+        "text": "c\u0027est correct",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "50c14e50-7a4a-4a72-b62b-f6dca2956da0",
+    "data": [
+      {
+        "text": "d\u0027accord",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 0
+  },
+  {
+    "id": "1d51ff09-cd8d-406f-a425-41d5dc7359e7",
+    "data": [
+      {
+        "text": "bien sûr",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "1dc0e156-1829-4173-9b2c-cb02af1cb72b",
+    "data": [
+      {
+        "text": "exactement",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "ceb90f35-b7b3-41d0-a9f6-cea014479d10",
+    "data": [
+      {
+        "text": "confirmer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fa693c99-cfe6-4fae-8049-f205a2d30e51",
+    "data": [
+      {
+        "text": "je suis d\u0027accord",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4a28df8a-bc65-4184-9af9-b32287ed5de3",
+    "data": [
+      {
+        "text": "oui",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "e45e6752-e7ad-4ccb-aab2-41e26e80e062",
+    "data": [
+      {
+        "text": "ça me va",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  }
+]

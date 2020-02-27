@@ -9,16 +9,27 @@
       "affectedContexts": [],
       "parameters": [
         {
+<<<<<<< HEAD
           "id": "7080052a-8a6e-4709-8c1c-e703f0a3fc8d",
           "required": false,
+=======
+          "id": "62ad29e4-feb6-4343-bb1a-185a1031ebff",
+          "required": true,
+>>>>>>> 5c0adc205a82cade47e6de2c0e2a9ab4d63ee00d
           "dataType": "@Qui",
           "name": "Qui",
           "value": "$Qui",
+          "prompts": [
+            {
+              "lang": "fr",
+              "value": "Souhaitez-vous contacter quelqu\u0027un en particulier ?"
+            }
+          ],
           "promptMessages": [],
           "noMatchPromptMessages": [],
           "noInputPromptMessages": [],
           "outputDialogContexts": [],
-          "isList": false
+          "isList": true
         }
       ],
       "messages": [
@@ -26,6 +37,7 @@
           "type": 0,
           "lang": "fr",
           "condition": "",
+<<<<<<< HEAD
           "speech": "Vous souhaitez prendre contact avec $Qui.original. Merci de remplir le formulaire à l\u0027adresse suivante :  \n\nhttps://nous-ecrire.ensta-bretagne.fr"
         },
         {
@@ -33,6 +45,9 @@
           "lang": "en",
           "condition": "",
           "speech": "You wish to contact $Qui.original. Please complete the form at the following address:\n\nhttps://nous-ecrire.ensta-bretagne.fr"
+=======
+          "speech": "Vous souhaitez prendre contact avec $Qui.original.  Merci de remplir le formulaire à l\u0027adresse suivante :  \n\nhttps://nous-ecrire.ensta-bretagne.fr"
+>>>>>>> 5c0adc205a82cade47e6de2c0e2a9ab4d63ee00d
         }
       ],
       "defaultResponsePlatforms": {},
