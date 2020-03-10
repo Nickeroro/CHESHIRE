@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Yeti bot</string>
+    <string name="non_empty_query">La requête ne doit pas être vide</string>
+</resources>
